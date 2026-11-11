@@ -43,7 +43,10 @@ a { color: var(--sea); }
 .topbar { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 20px; padding: 10px 16px;
   background: color-mix(in srgb, var(--bg) 85%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
 .logo { font: 800 20px "Bricolage Grotesque"; color: var(--ink); text-decoration: none; }
-.logo span { color: var(--accent); }
+.logo { white-space: nowrap; }
+.logo .logo-tag { color: var(--ink); }
+.logo .logo-tag span { color: var(--accent); }
+@media (max-width: 420px) { .logo { font-size: 17px; } .engine-pick > span { display: none; } }
 .topbar nav { display: flex; gap: 18px; flex: 1; overflow-x: auto; }
 .topbar nav a { color: var(--ink-2); text-decoration: none; font-weight: 500; white-space: nowrap; }
 .topbar nav a:hover { color: var(--ink); }

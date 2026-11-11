@@ -164,6 +164,8 @@
 
   // ---------- Topics ----------
   function renderTopics() {
+    document.getElementById("guide-chips").innerHTML = D.topics.map((t) =>
+      `<a class="chip" href="topics/${t.id}.html"><span aria-hidden="true">${t.icon}</span> ${esc(t.name)}</a>`).join("");
     const M = window.SB_MEDIA || {};
     document.getElementById("topic-grid").innerHTML = D.topics.map((t) => {
       const img = M[t.id] && M[t.id].images[0];
