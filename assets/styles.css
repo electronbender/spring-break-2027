@@ -271,3 +271,4 @@ a { color: var(--sea); }
   .topbar { justify-content: space-between; }
   .hero-inner { padding: 48px 16px 96px; }
 }
+.logo .logo-sep { color: var(--ink-2); font-weight: 500; margin: 0 2px; }
