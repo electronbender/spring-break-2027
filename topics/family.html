@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Family Spring Break · Spring Break 2027</title>
+  <meta name="description" content="Kid-friendly alternatives and deals.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body data-topic="family">
+  <header class="topbar">
+    <a class="logo" href="../index.html">SB<span>’27</span></a>
+    <nav aria-label="Sections">
+      <a href="../index.html#dates">Dates</a><a href="../index.html#popularity">Popularity</a><a href="../index.html#destinations">Destinations</a><a href="../index.html#companies">Tour companies</a><a href="../index.html#topics">Topics</a>
+    </nav>
+    <label class="engine-pick">
+      <span>Ask with</span>
+      <select id="engine" aria-label="AI assistant used for prompt links">
+        <option value="claude">Claude</option>
+        <option value="chatgpt">ChatGPT</option>
+        <option value="perplexity">Perplexity</option>
+      </select>
+    </label>
+  </header>
+  <main id="topic"></main>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="../assets/data.js"></script>
+  <script src="../assets/topic-media.js"></script>
+  <script src="../assets/topic-content.js"></script>
+  <script src="../assets/topic.js"></script>
+</body>
+</html>

@@ -136,7 +136,7 @@
     const regions = ["All", ...new Set(D.destinations.map((d) => d.region))];
     document.getElementById("region-filter").innerHTML = regions.map((r) =>
       `<button type="button" role="tab" aria-selected="${r === region}" class="chip ${r === region ? "on" : ""}" data-region="${r}">${r}<span>${r === "All" ? D.destinations.length : D.destinations.filter((d) => d.region === r).length}</span></button>`
-    ).join("") + `<label class="sort">Sort <select id="sort"><option value="pop" ${sort === "pop" ? "selected" : ""}>Most popular (2026)</option><option value="site" ${sort === "site" ? "selected" : ""}>springbreak.com order</option></select></label>`;
+    ).join("") + `<label class="sort">Sort <select id="sort"><option value="pop" ${sort === "pop" ? "selected" : ""}>Most popular (2026)</option><option value="site" ${sort === "site" ? "selected" : ""}>By region</option></select></label>`;
   }
   function renderDestinations() {
     let list = D.destinations.filter((d) => region === "All" || d.region === region);
@@ -164,14 +164,23 @@
 
   // ---------- Topics ----------
   function renderTopics() {
-    document.getElementById("topic-grid").innerHTML = D.topics.map((t) => `
+    const M = window.SB_MEDIA || {};
+    document.getElementById("topic-grid").innerHTML = D.topics.map((t) => {
+      const img = M[t.id] && M[t.id].images[0];
+      const vids = M[t.id] ? M[t.id].videos.length : 0;
+      return `
       <article class="card topic">
-        <div class="topic-icon" aria-hidden="true">${t.icon}</div>
-        <h3>${esc(t.name)}</h3>
+        <a class="topic-thumb" href="topics/${t.id}.html" tabindex="-1" aria-hidden="true">
+          ${img ? `<img src="${img.src}" alt="" loading="lazy">` : ""}
+          <span class="topic-icon">${t.icon}</span>
+          ${vids ? `<span class="vid-count">▶ ${vids} videos</span>` : ""}
+        </a>
+        <h3><a href="topics/${t.id}.html">${esc(t.name)}</a></h3>
         <p>${esc(t.blurb)}</p>
+        <a class="ref ref-guide" href="topics/${t.id}.html">Read the guide →</a>
         ${askButtons(topicPrompt(t), "Get update")}
-        <a class="ref" href="${t.sbUrl}" target="_blank" rel="noopener">springbreak.com ↗</a>
-      </article>`).join("");
+      </article>`;
+    }).join("");
   }
 
   // ---------- Full link index ----------

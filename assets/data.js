@@ -54,10 +54,10 @@ window.SB = {
       ],
       gap: "No 2027 prices or dates published yet."
     },
-    { id: "bahamasun", name: "BahamaSun", status: "tba", focus: ["Bahamas"], facts: ["Listed as a tour operator on springbreak.com."], gap: "2027 offering not verified." },
-    { id: "bestbreak", name: "Best Break", status: "tba", focus: [], facts: ["Listed as a tour operator on springbreak.com."], gap: "2027 offering not verified." },
-    { id: "paradise", name: "Paradise Parties", status: "tba", focus: [], facts: ["Listed as a tour operator on springbreak.com."], gap: "2027 offering not verified." },
-    { id: "bianchi", name: "Bianchi-Rossi Tours", status: "tba", focus: [], facts: ["Listed as a tour operator on springbreak.com."], gap: "2027 offering not verified." }
+    { id: "bahamasun", name: "BahamaSun", status: "tba", focus: ["Bahamas"], facts: ["Has run spring break trips in past seasons."], gap: "2027 offering not verified." },
+    { id: "bestbreak", name: "Best Break", status: "tba", focus: [], facts: ["Has run spring break trips in past seasons."], gap: "2027 offering not verified." },
+    { id: "paradise", name: "Paradise Parties", status: "tba", focus: [], facts: ["Has run spring break trips in past seasons."], gap: "2027 offering not verified." },
+    { id: "bianchi", name: "Bianchi-Rossi Tours", status: "tba", focus: [], facts: ["Has run spring break trips in past seasons."], gap: "2027 offering not verified." }
   ],
 
   // Destinations exactly as springbreak.com organizes them, plus STS's new 2027 addition.
