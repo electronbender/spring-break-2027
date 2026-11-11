@@ -50,7 +50,7 @@
 
   function askButtons(prompt, label) {
     return `<div class="ask">
-      <a class="btn btn-ask" data-prompt="${esc(prompt)}" href="${link(prompt)}" target="_blank" rel="noopener">
+      <a class="btn btn-ask" data-prompt="${esc(prompt)}" href="${link(prompt)}" target="_blank" rel="nofollow noopener">
         <span aria-hidden="true">✦</span> ${esc(label || "Get 2027 update")} <span class="engine-name">in ${ENGINES[engine].label}</span>
       </a>
       <button class="btn btn-ghost btn-copy" type="button" data-prompt="${esc(prompt)}" aria-label="Copy prompt">Copy prompt</button>
@@ -118,14 +118,14 @@
       </div>
       <div class="sigs">${bar("v", "Visitation")}${bar("b", "Buzz")}${bar("c", "Spring-break crowd")}</div>
       <details><summary>Why this rating</summary><ul>${p.ev.map(([t, src]) => `<li>${esc(t)}${src ? srcLink(src) : ""}</li>`).join("")}</ul>
-      <a class="pop-ask" href="${link(popPrompt(d))}" target="_blank" rel="noopener">✦ Check 2026 stats in ${ENGINES[engine].label} ↗</a></details>
+      <a class="pop-ask" href="${link(popPrompt(d))}" target="_blank" rel="nofollow noopener">✦ Check 2026 stats in ${ENGINES[engine].label} ↗</a></details>
     </div>`;
   }
   function renderPopularity() {
     document.getElementById("pop-signals").innerHTML = D.popularityMethod.signals.map((s) => `<li><b>${s.label}</b> ${esc(s.desc)}</li>`).join("");
     document.getElementById("pop-board").innerHTML = ranked.map((d, i) => {
       const s = popScore(d.id), h = heat(s);
-      return `<li><a href="#dest-${d.id}" data-jump="${d.id}"><span class="rk">${i + 1}</span><span class="nm">${esc(d.name)}</span><i><b class="${h.cls}" style="width:${s}%"></b></i><span class="sc">${s}</span></a></li>`;
+      return `<li><a href="destinations/${d.id}.html"><span class="rk">${i + 1}</span><span class="nm">${esc(d.name)}</span><i><b class="${h.cls}" style="width:${s}%"></b></i><span class="sc">${s}</span></a></li>`;
     }).join("");
   }
 
@@ -145,7 +145,7 @@
     document.getElementById("dest-grid").innerHTML = list.map((d) => `
       <article class="card dest" id="dest-${d.id}">
         <header class="card-head">
-          <div><p class="eyebrow">${esc(d.state)} · ${esc(d.region)}</p><h3>${esc(d.name)}</h3></div>
+          <div><p class="eyebrow">${esc(d.state)} · ${esc(d.region)}</p><h3><a href="destinations/${d.id}.html">${esc(d.name)}</a></h3></div>
           ${badge(d.status)}
         </header>
         <p class="vibe">${esc(d.vibe)} <a class="more-info" href="destinations/${d.id}.html">More Information</a></p>
@@ -173,7 +173,7 @@
       return `
       <article class="card topic">
         <a class="topic-thumb" href="topics/${t.id}.html" tabindex="-1" aria-hidden="true">
-          ${img ? `<img src="${img.src}" alt="" loading="lazy">` : ""}
+          ${img ? `<img src="${img.src}" alt="" loading="lazy" width="${img.w || 1200}" height="${img.h || 800}">` : ""}
           <span class="topic-icon">${t.icon}</span>
           ${vids ? `<span class="vid-count">▶ ${vids} videos</span>` : ""}
         </a>
@@ -199,7 +199,7 @@
     document.getElementById("link-count").textContent = allLinks().length;
     document.getElementById("index-body").innerHTML = allLinks().map((l) => `
       <tr><td><span class="tag">${l.group}</span></td><td>${esc(l.name)}</td>
-      <td><a href="${link(l.prompt)}" target="_blank" rel="noopener">Open in ${ENGINES[engine].label} ↗</a></td></tr>`).join("");
+      <td><a href="${link(l.prompt)}" target="_blank" rel="nofollow noopener">Open in ${ENGINES[engine].label} ↗</a></td></tr>`).join("");
   }
 
   // ---------- Sources ----------

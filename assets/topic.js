@@ -20,7 +20,6 @@
 
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-  document.title = `${t.name} · Spring Break 2027`;
   const hero = media.images[0];
 
   const sectionHtml = (s) => `
@@ -33,7 +32,7 @@
   const videoHtml = (v) => `
     <figure class="video">
       <button class="yt" type="button" data-yt="${esc(v.id)}" aria-label="Play: ${esc(v.title)}">
-        <img src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt="" loading="lazy">
+        <img src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt="${esc(v.title)} (video thumbnail)" loading="lazy" width="480" height="360">
         <span class="play" aria-hidden="true"></span>
         <span class="dur">${esc(v.length)}</span>
       </button>
@@ -42,7 +41,7 @@
 
   const photoHtml = (im) => `
     <figure class="photo">
-      <img src="${root + im.src}" alt="${esc(im.alt)}" loading="lazy">
+      <img src="${root + im.src}" alt="${esc(im.alt)}" loading="lazy" width="${im.w || 1200}" height="${im.h || 800}">
       <figcaption>${esc(im.alt).slice(0, 110)}</figcaption>
     </figure>`;
 
@@ -55,8 +54,9 @@
         <p class="kicker">Spring Break 2027 guide</p>
         <h1><span aria-hidden="true">${t.icon}</span> ${esc(t.name)}</h1>
         <p class="lede">${esc(content.lead)}</p>
+        <p class="updated">Updated <time datetime="${D.asOfISO}">${esc(D.asOf)}</time></p>
         <div class="ask">
-          <a class="btn btn-ask" id="ask" href="${link()}" target="_blank" rel="noopener"><span aria-hidden="true">✦</span> Get the latest <span class="engine-name">in ${ENGINES[engine].label}</span></a>
+          <a class="btn btn-ask" id="ask" href="${link()}" target="_blank" rel="nofollow noopener"><span aria-hidden="true">✦</span> Get the latest <span class="engine-name">in ${ENGINES[engine].label}</span></a>
           <button class="btn btn-ghost btn-light" id="copy" type="button">Copy prompt</button>
         </div>
       </div>
@@ -71,7 +71,7 @@
           <h3>Ask for live updates</h3>
           <p>This prompt opens <b>${ENGINES[engine].label}</b> with the question filled in:</p>
           <blockquote>${esc(t.prompt)}</blockquote>
-          <a class="btn btn-ask" id="ask2" href="${link()}" target="_blank" rel="noopener">✦ Open prompt</a>
+          <a class="btn btn-ask" id="ask2" href="${link()}" target="_blank" rel="nofollow noopener">✦ Open prompt</a>
         </div>
       </aside>
     </div>

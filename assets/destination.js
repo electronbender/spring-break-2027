@@ -38,7 +38,6 @@
   const pop = D.popularity[id];
   const companyName = (cid) => (D.companies.find((c) => c.id === cid) || {}).name || cid;
 
-  document.title = `${d.name} · Spring Break 2027`;
   const hero = media.images[0];
 
   const sectionHtml = (sec) => `
@@ -50,14 +49,30 @@
   const videoHtml = (v) => `
     <figure class="video">
       <button class="yt" type="button" data-yt="${esc(v.id)}" aria-label="Play: ${esc(v.title)}">
-        <img src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt="" loading="lazy">
+        <img src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt="${esc(v.title)} (video thumbnail)" loading="lazy" width="480" height="360">
         <span class="play" aria-hidden="true"></span><span class="dur">${esc(v.length)}</span>
       </button>
       <figcaption><b>${esc(v.title)}</b><span>${esc(v.channel)} · <a href="https://www.youtube.com/watch?v=${esc(v.id)}" target="_blank" rel="noopener">YouTube ↗</a></span></figcaption>
     </figure>`;
-  const photoHtml = (im) => `<figure class="photo"><img src="${root + im.src}" alt="${esc(im.alt)}" loading="lazy"><figcaption>${esc(im.alt).slice(0, 110)}</figcaption></figure>`;
+  const photoHtml = (im) => `<figure class="photo"><img src="${root + im.src}" alt="${esc(im.alt)}" loading="lazy" width="${im.w || 1200}" height="${im.h || 800}"><figcaption>${esc(im.alt).slice(0, 110)}</figcaption></figure>`;
 
   const sameRegion = D.destinations.filter((x) => x.region === d.region && x.id !== id);
+
+  // FAQ built only from the page's own data (also emitted as FAQPage JSON-LD at build time)
+  const fact = (label) => (content.facts.find(([k]) => k.toLowerCase().startsWith(label)) || [])[1];
+  const faq = [];
+  if (pop) faq.push([`Is ${d.name} a good spring break destination for 2027?`,
+    `${d.name} scored ${s}/100 (#${rank} of ${D.destinations.length}, "${heat[0]}") in our Spring Break 2026 popularity rating, based on visitation, search buzz and college crowds. ${content.lead}`]);
+  if (fact("fly")) faq.push([`What airport do you fly into for ${d.name}?`, `Fly into ${fact("fly")}.`]);
+  if (fact("drinking")) faq.push([`What is the drinking age in ${d.name}?`, `The drinking age is ${fact("drinking")}.`]);
+  if (d.operators.length) faq.push([`Which tour companies offer Spring Break 2027 trips to ${d.name}?`,
+    `${d.operators.map(companyName).join(", ")} offer${d.operators.length === 1 ? "s" : ""} trips to ${d.name}. Compare out-the-door prices, party packages and refund policies before booking.`]);
+  const ev = d.events2027.filter((e) => e.status !== "tba");
+  faq.push([`What's happening in ${d.name} for Spring Break 2027?`, ev.length
+    ? ev.map((e) => `${e.name} (${e.when})`).join("; ") + "."
+    : `No 2027 spring break events have been announced for ${d.name} yet. Lineups are usually announced in December and January.`]);
+  faq.push([`When is spring break 2027?`, `Most college spring breaks in 2027 fall between March 6 and March 28. Easter is March 28, 2027, which makes the season early and compressed.`]);
+  window.SB_PAGE_FAQ = faq;
 
   document.getElementById("dest").innerHTML = `
     <section class="t-hero" style="--hero-img:url('${hero ? root + hero.src : ""}')">
@@ -66,8 +81,9 @@
         <p class="kicker">${esc(d.state)} · ${esc(d.region)} · Spring Break 2027</p>
         <h1>${esc(d.name)}</h1>
         <p class="lede">${esc(content.lead)}</p>
+        <p class="updated">Updated <time datetime="${D.asOfISO}">${esc(D.asOf)}</time></p>
         <div class="ask">
-          <a class="btn btn-ask" id="ask" href="${link()}" target="_blank" rel="noopener"><span aria-hidden="true">✦</span> Get 2027 update <span class="engine-name">in ${ENGINES[engine].label}</span></a>
+          <a class="btn btn-ask" id="ask" href="${link()}" target="_blank" rel="nofollow noopener"><span aria-hidden="true">✦</span> Get 2027 update <span class="engine-name">in ${ENGINES[engine].label}</span></a>
           <button class="btn btn-ghost btn-light" id="copy" type="button">Copy prompt</button>
         </div>
       </div>
@@ -91,10 +107,15 @@
           ${d.events2027.length ? `<ul class="events">${d.events2027.map((e) => `<li><span class="dot dot-${e.status}" aria-hidden="true"></span><div><b>${esc(e.name)}</b><small>${esc(e.when)}${e.src ? srcLink(e.src) : ""}</small></div></li>`).join("")}</ul>` : "<p>No 2027 events announced yet.</p>"}
           ${d.operators.length ? `<p class="venues"><span>Tour operators</span> ${d.operators.map(companyName).map(esc).join(" · ")}</p>` : ""}
           ${d.note ? `<p class="note">${esc(d.note)}</p>` : ""}
-          <a class="btn btn-ask" id="ask2" href="${link()}" target="_blank" rel="noopener">✦ Ask for the latest</a>
+          <a class="btn btn-ask" id="ask2" href="${link()}" target="_blank" rel="nofollow noopener">✦ Ask for the latest</a>
         </div>
       </aside>
     </div>
+
+    <section class="wrap section faq">
+      <div class="section-head"><h2>${esc(d.name)} spring break FAQ</h2></div>
+      ${faq.map(([q, a]) => `<details open><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join("")}
+    </section>
 
     ${media.videos.length ? `<section class="wrap section"><div class="section-head"><h2>Watch</h2><p>Clips from ${esc(d.name)}.</p></div><div class="video-grid">${media.videos.map(videoHtml).join("")}</div></section>` : ""}
     ${media.images.length > 1 ? `<section class="wrap section"><div class="section-head"><h2>Photos</h2></div><div class="photo-grid">${media.images.slice(1).map(photoHtml).join("")}</div></section>` : ""}

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--HEAD-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="logo" href="#top">Springbreak.com <span class="logo-sep">|</span> <span class="logo-tag">SB<span>’27</span></span></a>
+    <nav aria-label="Sections">
+      <a href="#guides">Guides</a><a href="#dates">Dates</a><a href="#popularity">Popularity</a><a href="#destinations">Destinations</a><a href="#companies">Tour companies</a><a href="#topics">Topics</a><a href="#links">All links</a>
+    </nav>
+    <label class="engine-pick">
+      <span>Ask with</span>
+      <select id="engine" aria-label="AI assistant used for prompt links">
+        <option value="claude">Claude</option>
+        <option value="chatgpt">ChatGPT</option>
+        <option value="perplexity">Perplexity</option>
+      </select>
+    </label>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="kicker">College Spring Break · March 2027</p>
+        <h1>Spring Break <em>2027</em></h1>
+        <p class="lede">Destinations, parties, concerts and tour packages for Spring Break 2027, with what the big tour companies and festivals have announced so far. Each card has a pre-filled prompt link that opens <b class="engine-label">Claude</b> to look up the latest details or select a different LLM from the menu above on right.</p>
+        <div class="hero-stats">
+          <div><b id="countdown">—</b><span>days until peak week starts (Mar 6)</span></div>
+          <div><b>Mar 26–28</b><span>Ultra Music Festival, Miami</span></div>
+          <div><b>Mar 28</b><span>Easter, which makes for an early season</span></div>
+        </div>
+      </div>
+      <div class="sun" aria-hidden="true"></div>
+      <svg class="waves" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 60c120 30 240 30 360 0s240-30 360 0 240 30 360 0 240-30 360 0v60H0z"/></svg>
+    </section>
+
+    <section id="guides" class="wrap section">
+      <div class="section-head"><h2>Guides</h2><p>Everything you need to plan Spring Break 2027.</p></div>
+      <div id="guide-chips" class="more"></div>
+    </section>
+
+    <section id="dates" class="wrap section">
+      <div class="section-head"><h2>Key 2027 dates</h2><p>Festivals and calendar dates that shape the season.</p></div>
+      <ol id="dates-list" class="dates"></ol>
+    </section>
+
+    <section id="popularity" class="wrap section">
+      <div class="section-head">
+        <h2>Popularity: how 2026 played out</h2>
+        <p>Each destination gets a score from 0 to 100 based on what happened during spring break 2026 (about March 1 to April 5). The score combines three signals, each rated 1–5.</p>
+      </div>
+      <div class="pop-wrap">
+        <ol id="pop-board" class="pop-board"></ol>
+        <aside class="pop-method">
+          <h3>How it's scored</h3>
+          <ul id="pop-signals"></ul>
+          <p class="legend"><span class="lg h5">Red-hot 85+</span><span class="lg h4">Hot 70–84</span><span class="lg h3">Warm 55–69</span><span class="lg h2">Mild 40–54</span><span class="lg h1">Quiet &lt;40</span></p>
+          <p class="fine">These are editorial ratings built from public 2026 data. Confidence is marked low where no official 2026 count exists (for example, Panama City Beach and Lake Havasu). Open "Why this rating" on any destination card for the evidence and a prompt link to check the latest numbers.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section id="destinations" class="wrap section">
+      <div class="section-head">
+        <h2>Destinations</h2>
+        <p>Every major spring break destination in the U.S., Mexico, the Caribbean and beyond, including STS Travel's new Guanacaste trip.</p>
+      </div>
+      <div id="region-filter" class="chips" role="tablist" aria-label="Filter by region"></div>
+      <div id="dest-grid" class="grid grid-dest"></div>
+    </section>
+
+    <section id="companies" class="wrap section">
+      <div class="section-head"><h2>Major spring break &amp; college tour companies</h2><p>What each company has published for 2027 so far.</p></div>
+      <div id="company-grid" class="grid grid-co"></div>
+    </section>
+
+    <section id="topics" class="wrap section">
+      <div class="section-head"><h2>Topics</h2><p>Guides to planning, budgeting, staying safe and having the best week.</p></div>
+      <div id="topic-grid" class="grid grid-topic"></div>
+    </section>
+
+    <section id="links" class="wrap section">
+      <div class="section-head row">
+        <div><h2>All pre-filled prompt links</h2><p><b id="link-count">0</b> links, each opening <b class="engine-label">Claude</b> with its question already filled in.</p></div>
+        <button id="copy-all" class="btn btn-ask" type="button">Copy all as Markdown</button>
+      </div>
+      <div class="table-wrap">
+        <table class="index">
+          <thead><tr><th>Type</th><th>Subject</th><th>Prompt link</th></tr></thead>
+          <tbody id="index-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="faq" class="wrap section faq">
+      <div class="section-head"><h2>Spring Break 2027 FAQ</h2></div>
+      <div id="home-faq"></div>
+    </section>
+
+    <section class="wrap section sources">
+      <h2>Sources</h2>
+      <ul id="source-list"></ul>
+      <p class="fine">Prices and lineups change, so confirm with the operator before you book. Most destinations require you to be 21 to drink.</p>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="assets/data.js"></script>
+  <script src="assets/topic-media.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

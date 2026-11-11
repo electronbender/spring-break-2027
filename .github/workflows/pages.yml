@@ -22,6 +22,15 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # Pre-render pages, metadata, sitemap and llms.txt. Set the SITE_URL repo variable
+      # (Settings → Secrets and variables → Actions → Variables) when the site moves to its own domain.
+      - name: Build static pages
+        run: node build.mjs
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

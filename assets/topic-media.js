@@ -9,7 +9,9 @@ window.SB_MEDIA = {
     "credit": "j.s. clark/ \"Image by jsclark.net.\"",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach,_Florida_(J.S._Clark).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach,_Florida_(J.S._Clark).jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/dates-2.jpg",
@@ -17,7 +19,9 @@ window.SB_MEDIA = {
     "credit": "Spheroidite",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:South_Padre_Island_beach_panorama.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:South_Padre_Island_beach_panorama.jpg",
+    "h": 536,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/dates-3.jpg",
@@ -25,7 +29,9 @@ window.SB_MEDIA = {
     "credit": "Balon Greyjoy",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach_from_St_Andrews_State_Park.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach_from_St_Andrews_State_Park.jpg",
+    "h": 799,
+    "w": 1200
    }
   ],
   "videos": [
@@ -51,7 +57,9 @@ window.SB_MEDIA = {
     "credit": "Robert Giordano",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_View_of_Bayfront_Park_during_the_2013_Ultra_Music_Festival_in_Miami,_Florida.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_View_of_Bayfront_Park_during_the_2013_Ultra_Music_Festival_in_Miami,_Florida.jpg",
+    "h": 795,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/concerts-2.jpg",
@@ -59,7 +67,9 @@ window.SB_MEDIA = {
     "credit": "Averette",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ultra_Music_Festival_Miami_20090327.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Ultra_Music_Festival_Miami_20090327.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/concerts-3.jpg",
@@ -67,7 +77,9 @@ window.SB_MEDIA = {
     "credit": "Averette",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ultra_Music_Festival_20110326.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Ultra_Music_Festival_20110326.jpg",
+    "h": 665,
+    "w": 1200
    }
   ],
   "videos": [
@@ -93,7 +105,9 @@ window.SB_MEDIA = {
     "credit": "Luka Peternel",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Cancun-beach-Mexico-2016-Luka-Peternel.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Cancun-beach-Mexico-2016-Luka-Peternel.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/packages-2.jpg",
@@ -101,7 +115,9 @@ window.SB_MEDIA = {
     "credit": "Oleg Yunakov",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Coco_Bongo.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Coco_Bongo.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/packages-3.jpg",
@@ -109,7 +125,9 @@ window.SB_MEDIA = {
     "credit": "Alfonzo Buscemi",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Royal_Islander,_Hotel_Zone,_Cancun_-_panoramio.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Islander,_Hotel_Zone,_Cancun_-_panoramio.jpg",
+    "h": 722,
+    "w": 1200
    }
   ],
   "videos": [
@@ -135,7 +153,9 @@ window.SB_MEDIA = {
     "credit": "Spheroidite",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:South_Padre_Island_beach_view_from_condo.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:South_Padre_Island_beach_view_from_condo.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/prices-us-2.jpg",
@@ -143,7 +163,9 @@ window.SB_MEDIA = {
     "credit": "Dietmar Rabich",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232.jpg",
+    "h": 826,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/prices-us-3.jpg",
@@ -151,7 +173,9 @@ window.SB_MEDIA = {
     "credit": "The Eloquent Peasant",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Driving_on_Daytona_Beach.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Driving_on_Daytona_Beach.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -177,7 +201,9 @@ window.SB_MEDIA = {
     "credit": "NoonIcarus",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Punta_Cana_Beach_01.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Punta_Cana_Beach_01.jpg",
+    "h": 674,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/prices-mx-2.jpg",
@@ -185,7 +211,9 @@ window.SB_MEDIA = {
     "credit": "DestinationFearFan",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Arch_of_Cabo_San_Lucas.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:The_Arch_of_Cabo_San_Lucas.jpg",
+    "h": 1200,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/prices-mx-3.jpg",
@@ -193,7 +221,9 @@ window.SB_MEDIA = {
     "credit": "NoonIcarus",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Punta_Cana_Beach_03.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Punta_Cana_Beach_03.jpg",
+    "h": 674,
+    "w": 1200
    }
   ],
   "videos": [
@@ -219,7 +249,9 @@ window.SB_MEDIA = {
     "credit": "Monocletophat123",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:US_passport_extra_pages.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:US_passport_extra_pages.jpg",
+    "h": 835,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/passports-2.jpg",
@@ -227,7 +259,9 @@ window.SB_MEDIA = {
     "credit": "Michael Grabois (User:Wizardimps)",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Spain,_South_Korea,_Australia,_and_Mexico_U.S._passport_stamps.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Spain,_South_Korea,_Australia,_and_Mexico_U.S._passport_stamps.jpg",
+    "h": 844,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/passports-3.jpg",
@@ -235,7 +269,9 @@ window.SB_MEDIA = {
     "credit": "U.S. Government Accountability Office from Washington, DC, United States",
     "license": "Public domain",
     "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Figure_7-_Automated_Passport_Control_(APC)_Kiosks_at_Dallas-Fort_Worth_International_Airport_(DFW)_and_George_Bush_Intercontinental_Airport_(IAH)_(34994079415).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Figure_7-_Automated_Passport_Control_(APC)_Kiosks_at_Dallas-Fort_Worth_International_Airport_(DFW)_and_George_Bush_Intercontinental_Airport_(IAH)_(34994079415).jpg",
+    "h": 830,
+    "w": 1200
    }
   ],
   "videos": [
@@ -261,7 +297,9 @@ window.SB_MEDIA = {
     "credit": "Elbert Hampton",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Lifeguard_tower_in_Miami_Beach_-_november_2022.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Lifeguard_tower_in_Miami_Beach_-_november_2022.jpg",
+    "h": 540,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/safety-2.jpg",
@@ -269,7 +307,9 @@ window.SB_MEDIA = {
     "credit": "Michael Rivera",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:St._Augustine_Beach_warning_flag.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:St._Augustine_Beach_warning_flag.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/safety-3.jpg",
@@ -277,7 +317,9 @@ window.SB_MEDIA = {
     "credit": "The Bushranger",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bald_Point_State_Park_Sunrise_Beach_beach_warning_flags_sign.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Bald_Point_State_Park_Sunrise_Beach_beach_warning_flags_sign.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -309,7 +351,9 @@ window.SB_MEDIA = {
     "credit": "Jcofilms",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Nassau-Harbour-Cruise-Ships-Aerial-Bahamas.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Nassau-Harbour-Cruise-Ships-Aerial-Bahamas.jpg",
+    "h": 675,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/cruises-2.jpg",
@@ -317,7 +361,9 @@ window.SB_MEDIA = {
     "credit": "Kiran891",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:MSC_Meraviglia_arriving_at_Nassau_Cruise_Port,_Bahamas_(March_14,_2024).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:MSC_Meraviglia_arriving_at_Nassau_Cruise_Port,_Bahamas_(March_14,_2024).jpg",
+    "h": 675,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/cruises-3.jpg",
@@ -325,7 +371,9 @@ window.SB_MEDIA = {
     "credit": "Tips For Travellers",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Norwegia_Epic_cruise_ship_in_Port_Miami_Florida.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Norwegia_Epic_cruise_ship_in_Port_Miami_Florida.jpg",
+    "h": 799,
+    "w": 1200
    }
   ],
   "videos": [
@@ -351,7 +399,9 @@ window.SB_MEDIA = {
     "credit": "TampaThings.com",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Clearwater-beach-florida-pier-60.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Clearwater-beach-florida-pier-60.jpg",
+    "h": 314,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/family-2.jpg",
@@ -359,7 +409,9 @@ window.SB_MEDIA = {
     "credit": "4net",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Siesta_Key_Beach._Sarasota_-_panoramio_-_4net_(3).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Siesta_Key_Beach._Sarasota_-_panoramio_-_4net_(3).jpg",
+    "h": 805,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/family-3.jpg",
@@ -367,7 +419,9 @@ window.SB_MEDIA = {
     "credit": "Dough4872",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Daytona_Beach_Pier_from_north.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Daytona_Beach_Pier_from_north.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -393,7 +447,9 @@ window.SB_MEDIA = {
     "credit": "Mikael Cho mikael",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Clarity_from_above_(Unsplash).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Clarity_from_above_(Unsplash).jpg",
+    "h": 733,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/gear-2.jpg",
@@ -401,7 +457,9 @@ window.SB_MEDIA = {
     "credit": "PattayaPatrol",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:DFC_0558_Rows_of_colorful_beach_umbrellas_tilting_toward_the_sea_on_a_calm_sunny_day.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:DFC_0558_Rows_of_colorful_beach_umbrellas_tilting_toward_the_sea_on_a_calm_sunny_day.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/gear-3.jpg",
@@ -409,7 +467,9 @@ window.SB_MEDIA = {
     "credit": "Florida Guidebook from Florida, USA",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Peanut-Island-Web-3744_(49369853172).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Peanut-Island-Web-3744_(49369853172).jpg",
+    "h": 799,
+    "w": 1200
    }
   ],
   "videos": [
@@ -435,7 +495,9 @@ window.SB_MEDIA = {
     "credit": "Trevor Cameron",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Iberostar_Rose_Hall_Beach,_Montego_Bay,_Jamaica_2011.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Iberostar_Rose_Hall_Beach,_Montego_Bay,_Jamaica_2011.jpg",
+    "h": 632,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/tours-2.jpg",
@@ -443,7 +505,9 @@ window.SB_MEDIA = {
     "credit": "This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. I",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Jamaica_-_Negril_-_047.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Jamaica_-_Negril_-_047.jpg",
+    "h": 462,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/tours-3.jpg",
@@ -451,7 +515,9 @@ window.SB_MEDIA = {
     "credit": "Rüdiger Stehn from Kiel, Deutschland",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bahamas_1988_(059)_New_Providence_Cable_Beach_(22762816374).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Bahamas_1988_(059)_New_Providence_Cable_Beach_(22762816374).jpg",
+    "h": 787,
+    "w": 1200
    }
   ],
   "videos": [
@@ -483,7 +549,9 @@ window.SB_MEDIA = {
     "credit": "Steve Shook from Moscow, Idaho, USA",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Greetings_from_Fort_Lauderdale,_Florida_-_Large_Letter_Postcard_(8570661077).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Greetings_from_Fort_Lauderdale,_Florida_-_Large_Letter_Postcard_(8570661077).jpg",
+    "h": 746,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/films-2.jpg",
@@ -491,7 +559,9 @@ window.SB_MEDIA = {
     "credit": "Various US postcard publishers",
     "license": "Public domain",
     "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Lauderdale_Beach_Hotel_on_the_Ocean_Front,_Fort_Lauderdale_-_Postcard_Verso.png"
+    "page": "https://commons.wikimedia.org/wiki/File:Lauderdale_Beach_Hotel_on_the_Ocean_Front,_Fort_Lauderdale_-_Postcard_Verso.png",
+    "h": 778,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/films-3.jpg",
@@ -499,7 +569,9 @@ window.SB_MEDIA = {
     "credit": "1950sUnlimited",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ocean_world_fort_lauderdale_FL_(8192457518).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Ocean_world_fort_lauderdale_FL_(8192457518).jpg",
+    "h": 761,
+    "w": 1200
    }
   ],
   "videos": [
@@ -525,7 +597,9 @@ window.SB_MEDIA = {
     "credit": "Steve Shook from Moscow, Idaho, USA",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Greetings_from_Fort_Lauderdale,_Florida_-_Large_Letter_Postcard_(8053202792).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Greetings_from_Fort_Lauderdale,_Florida_-_Large_Letter_Postcard_(8053202792).jpg",
+    "h": 763,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/history-2.jpg",
@@ -533,7 +607,9 @@ window.SB_MEDIA = {
     "credit": "Steve Shook from Moscow, Idaho, USA",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Greetings_from_Daytona_Beach,_Florida,_%22The_World%27s_Most_Famous_Beach%22_-_Large_Letter_Postcard_(8723260536).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Greetings_from_Daytona_Beach,_Florida,_%22The_World%27s_Most_Famous_Beach%22_-_Large_Letter_Postcard_(8723260536).jpg",
+    "h": 752,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/history-3.jpg",
@@ -541,7 +617,9 @@ window.SB_MEDIA = {
     "credit": "Various US postcard publishers",
     "license": "Public domain",
     "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Lauderdale_Beach_Hotel_on_the_Ocean_Front,_Fort_Lauderdale_-_Postcard.png"
+    "page": "https://commons.wikimedia.org/wiki/File:Lauderdale_Beach_Hotel_on_the_Ocean_Front,_Fort_Lauderdale_-_Postcard.png",
+    "h": 780,
+    "w": 1200
    }
   ],
   "videos": [
@@ -573,7 +651,9 @@ window.SB_MEDIA = {
     "credit": "Keith Pomakis",
     "license": "CC BY-SA 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-    "page": "https://commons.wikimedia.org/wiki/File:Cancun_Beach.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Cancun_Beach.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/contests-2.jpg",
@@ -581,7 +661,9 @@ window.SB_MEDIA = {
     "credit": "Scott S Bateman",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Playa-del-carmen-beach.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Playa-del-carmen-beach.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/contests-3.jpg",
@@ -589,7 +671,9 @@ window.SB_MEDIA = {
     "credit": "Bernard DUPONT",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:At_the_beach_-_Cancun_QR_2020.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:At_the_beach_-_Cancun_QR_2020.jpg",
+    "h": 740,
+    "w": 1200
    }
   ],
   "videos": [
@@ -615,7 +699,9 @@ window.SB_MEDIA = {
     "credit": "Matt Kieffer",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Lifeguard_Hut_on_South_Beach_at_sunrise_-_Miami,_Florida.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Lifeguard_Hut_on_South_Beach_at_sunrise_-_Miami,_Florida.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/news-2.jpg",
@@ -623,7 +709,9 @@ window.SB_MEDIA = {
     "credit": "P. Hughes",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Beach_scene.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Beach_scene.jpg",
+    "h": 797,
+    "w": 1200
    },
    {
     "src": "assets/img/topics/news-3.jpg",
@@ -631,7 +719,9 @@ window.SB_MEDIA = {
     "credit": "Tichnor Brothers, Inc.",
     "license": "Public domain",
     "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Ocean_Drive_02.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Ocean_Drive_02.jpg",
+    "h": 777,
+    "w": 1200
    }
   ],
   "videos": [

@@ -9,7 +9,9 @@ window.SB_DEST_MEDIA = {
     "credit": "j.s. clark/ \"Image by jsclark.net.\"",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach,_Florida_(J.S._Clark).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach,_Florida_(J.S._Clark).jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/pcb-2.jpg",
@@ -17,7 +19,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Jesselikeswx",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach_-_View_1.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach_-_View_1.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/pcb-3.jpg",
@@ -25,7 +29,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Balon Greyjoy",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach_from_St_Andrews_State_Park.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Panama_City_Beach_from_St_Andrews_State_Park.jpg",
+    "h": 799,
+    "w": 1200
    }
   ],
   "videos": [
@@ -51,7 +57,9 @@ window.SB_DEST_MEDIA = {
     "credit": "This image or media was taken or created by Matt H. Wade. To see his entire port",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:MiamiSouthBeachPanoramaEdit.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:MiamiSouthBeachPanoramaEdit.jpg",
+    "h": 394,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/miami-2.jpg",
@@ -59,7 +67,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Hubo",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Art_Deco_Buildings,_Ocean_Drive,_Miami_Beach,_Florida.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Art_Deco_Buildings,_Ocean_Drive,_Miami_Beach,_Florida.jpg",
+    "h": 675,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/miami-3.jpg",
@@ -67,7 +77,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Radomianin",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Lifeguard_stand,_Miami_Beach.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Lifeguard_stand,_Miami_Beach.jpg",
+    "h": 799,
+    "w": 1200
    }
   ],
   "videos": [
@@ -93,7 +105,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Spheroidite",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:South_Padre_Island_beach_panorama.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:South_Padre_Island_beach_panorama.jpg",
+    "h": 536,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/spi-2.jpg",
@@ -101,7 +115,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Matthew T Rader",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_South_Padre_Island_with_people_parked_and_driving_on_the_beach_at_sunset.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_South_Padre_Island_with_people_parked_and_driving_on_the_beach_at_sunset.jpg",
+    "h": 674,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/spi-3.jpg",
@@ -109,7 +125,9 @@ window.SB_DEST_MEDIA = {
     "credit": "G. Lamar",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Causeway_to_South_Padre_(51102491670).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Causeway_to_South_Padre_(51102491670).jpg",
+    "h": 675,
+    "w": 1200
    }
   ],
   "videos": [
@@ -135,7 +153,9 @@ window.SB_DEST_MEDIA = {
     "credit": "EgorovaSvetlana",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Central_Beach_Fort_Lauderdale_Beach_Florida_Atlantic_Coast.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Central_Beach_Fort_Lauderdale_Beach_Florida_Atlantic_Coast.jpg",
+    "h": 767,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/ftl-2.jpg",
@@ -143,7 +163,9 @@ window.SB_DEST_MEDIA = {
     "credit": "U+1F360",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Fort_Lauderdale_Beach_Blvd.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Fort_Lauderdale_Beach_Blvd.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/ftl-3.jpg",
@@ -151,7 +173,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Infrogmation",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Las_Olas_Boulevard,_Fort_Lauderdale,_Florida_01.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Las_Olas_Boulevard,_Fort_Lauderdale,_Florida_01.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -177,7 +201,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Keiteay",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Daytona_Beach_Bandshell.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Daytona_Beach_Bandshell.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/daytona-2.jpg",
@@ -185,7 +211,9 @@ window.SB_DEST_MEDIA = {
     "credit": "By HumongoNationphotogallery",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Daytona_Beach_Ferris_Wheel.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Daytona_Beach_Ferris_Wheel.jpg",
+    "h": 797,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/daytona-3.jpg",
@@ -193,7 +221,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Dough4872",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Daytona_Beach_Pier_from_north.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Daytona_Beach_Pier_from_north.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -219,7 +249,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Dietmar Rabich",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232.jpg",
+    "h": 826,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/vegas-2.jpg",
@@ -227,7 +259,9 @@ window.SB_DEST_MEDIA = {
     "credit": "King of Hearts",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Strip_from_Resorts_World_February_2023_HDR_1.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Strip_from_Resorts_World_February_2023_HDR_1.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/vegas-3.jpg",
@@ -235,7 +269,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Julian Lupyan",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Reflection_of_the_Flamingo_Hotel_in_front_of_the_Bellagio.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Reflection_of_the_Flamingo_Hotel_in_front_of_the_Bellagio.jpg",
+    "h": 805,
+    "w": 1200
    }
   ],
   "videos": [
@@ -261,7 +297,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Cathixx",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Lake_Havasu_City_London_Bridge_Panorama.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Lake_Havasu_City_London_Bridge_Panorama.jpg",
+    "h": 246,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/havasu-2.jpg",
@@ -269,7 +307,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Ken Lund from Las Vegas, Nevada, USA",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:London_Bridge,_Lake_Havasu_City,_Arizona_(3227888290).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:London_Bridge,_Lake_Havasu_City,_Arizona_(3227888290).jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/havasu-3.jpg",
@@ -277,7 +317,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Timjarrett at en.wikipedia",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "page": "https://commons.wikimedia.org/wiki/File:London_Bridge_Havasu_Sign.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:London_Bridge_Havasu_Sign.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -303,7 +345,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Luka Peternel",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Cancun-beach-Mexico-2016-Luka-Peternel.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Cancun-beach-Mexico-2016-Luka-Peternel.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/cancun-2.jpg",
@@ -311,7 +355,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Максим Улитин",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Zona_Hotelera,_Canc%C3%BAn,_Q.R.,_Mexico_-_panoramio_(106).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Zona_Hotelera,_Canc%C3%BAn,_Q.R.,_Mexico_-_panoramio_(106).jpg",
+    "h": 654,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/cancun-3.jpg",
@@ -319,7 +365,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Oleg Yunakov",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Coco_Bongo.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Coco_Bongo.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -345,7 +393,9 @@ window.SB_DEST_MEDIA = {
     "credit": "DestinationFearFan",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Arch_of_Cabo_San_Lucas.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:The_Arch_of_Cabo_San_Lucas.jpg",
+    "h": 1200,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/cabo-2.jpg",
@@ -353,7 +403,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Alexis Doine",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Medano_Beach,_Cabo_San_Lucas_2024-11-14.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Medano_Beach,_Cabo_San_Lucas_2024-11-14.jpg",
+    "h": 675,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/cabo-3.jpg",
@@ -361,7 +413,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Rafael Saldaña",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Medano_beach.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Medano_beach.jpg",
+    "h": 799,
+    "w": 1200
    }
   ],
   "videos": [
@@ -387,7 +441,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Another Believer",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Puerto_Vallarta,_Mexico_-_March_2023_-_016.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Puerto_Vallarta,_Mexico_-_March_2023_-_016.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/pv-2.jpg",
@@ -395,7 +451,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Another Believer",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Erizados,_Malec%C3%B3n,_Puerto_Vallarta,_2014.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Erizados,_Malec%C3%B3n,_Puerto_Vallarta,_2014.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/pv-3.jpg",
@@ -403,7 +461,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Another Believer",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:March_2023_in_Puerto_Vallarta,_Jalisco_-_039.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:March_2023_in_Puerto_Vallarta,_Jalisco_-_039.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -429,7 +489,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Sally from Willamette Valley - Oregon, USA",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Acapulco_Bay_2010.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Acapulco_Bay_2010.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/acapulco-2.jpg",
@@ -437,7 +499,9 @@ window.SB_DEST_MEDIA = {
     "credit": "DiversTopCliffQuebrada.JPG: AlejandroLinaresGarcia\nderivative work: Pbsouthwood",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Acapulco_banner_La_Quebrada_cliff_divers.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Acapulco_banner_La_Quebrada_cliff_divers.jpg",
+    "h": 171,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/acapulco-3.jpg",
@@ -445,7 +509,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Arturo Mann",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "page": "https://commons.wikimedia.org/wiki/File:Acapulco_Bay_sunset.JPG"
+    "page": "https://commons.wikimedia.org/wiki/File:Acapulco_Bay_sunset.JPG",
+    "h": 799,
+    "w": 1200
    }
   ],
   "videos": [
@@ -471,7 +537,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Scott S Bateman",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Playa-del-carmen-beach.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Playa-del-carmen-beach.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/rivmaya-2.jpg",
@@ -479,7 +547,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Dennis Sylvester Hurd",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Walking_on_Quinta_Avenida,_Playa_del_Carmen,_QR,_Mexico.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Walking_on_Quinta_Avenida,_Playa_del_Carmen,_QR,_Mexico.jpg",
+    "h": 789,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/rivmaya-3.jpg",
@@ -487,7 +557,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Erik Cleves Kristensen",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Playa_del_Carmen_13-10-2023.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Playa_del_Carmen_13-10-2023.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -513,7 +585,9 @@ window.SB_DEST_MEDIA = {
     "credit": "DEZALB",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Dominican_Republic_Beach_Bavaro_Tropics.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Dominican_Republic_Beach_Bavaro_Tropics.jpg",
+    "h": 818,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/puntacana-2.jpg",
@@ -521,7 +595,9 @@ window.SB_DEST_MEDIA = {
     "credit": "NoonIcarus",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Punta_Cana_Beach_01.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Punta_Cana_Beach_01.jpg",
+    "h": 674,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/puntacana-3.jpg",
@@ -529,7 +605,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Joe deSousa",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Caribbean_Sunset,_Bavaro,_Dominican_Republic_(14702746147).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Caribbean_Sunset,_Bavaro,_Dominican_Republic_(14702746147).jpg",
+    "h": 675,
+    "w": 1200
    }
   ],
   "videos": [
@@ -555,7 +633,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Larry D. Moore",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Atlantis_Paradise_Island_Bahamas_2024.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Atlantis_Paradise_Island_Bahamas_2024.jpg",
+    "h": 675,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/nassau-2.jpg",
@@ -563,7 +643,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Jcofilms",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Nassau-Harbour-Cruise-Ships-Aerial-Bahamas.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Nassau-Harbour-Cruise-Ships-Aerial-Bahamas.jpg",
+    "h": 675,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/nassau-3.jpg",
@@ -571,7 +653,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Rüdiger Stehn from Kiel, Deutschland",
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bahamas_1988_(059)_New_Providence_Cable_Beach_(22762816374).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Bahamas_1988_(059)_New_Providence_Cable_Beach_(22762816374).jpg",
+    "h": 787,
+    "w": 1200
    }
   ],
   "videos": [
@@ -597,7 +681,9 @@ window.SB_DEST_MEDIA = {
     "credit": "en:User:Op. Deo",
     "license": "Public domain",
     "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Doctors-Cave-Beach.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Doctors-Cave-Beach.jpg",
+    "h": 628,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/montego-2.jpg",
@@ -605,7 +691,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Don Ramey Logan",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Montego_Bay_East_Photo_Don_Ramey_Logan.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Montego_Bay_East_Photo_Don_Ramey_Logan.jpg",
+    "h": 797,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/montego-3.jpg",
@@ -613,7 +701,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Don Ramey Logan",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Montego_Bay_Yacht_Club_Jamaica_Photo_Don_Ramey_Logan.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Montego_Bay_Yacht_Club_Jamaica_Photo_Don_Ramey_Logan.jpg",
+    "h": 797,
+    "w": 1200
    }
   ],
   "videos": [
@@ -639,7 +729,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Chaoleonard",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:7milesbeach1.JPG"
+    "page": "https://commons.wikimedia.org/wiki/File:7milesbeach1.JPG",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/negril-2.jpg",
@@ -647,7 +739,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Simson Petrol simson_petrol",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Rick%27s_Cafe,_Negril,_Jamaica_(Unsplash).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Rick%27s_Cafe,_Negril,_Jamaica_(Unsplash).jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/negril-3.jpg",
@@ -655,7 +749,9 @@ window.SB_DEST_MEDIA = {
     "credit": "VV Nincic from Toronto, Canada",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Jamaican_sunset_-_Flickr_-_VV_Nincic.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Jamaican_sunset_-_Flickr_-_VV_Nincic.jpg",
+    "h": 799,
+    "w": 1200
    }
   ],
   "videos": [
@@ -681,7 +777,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Pontificalibus",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Carlisle_Bay,_Barbados.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Carlisle_Bay,_Barbados.jpg",
+    "h": 903,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/barbados-2.jpg",
@@ -689,7 +787,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Upjav",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:View_of_the_beach_at_The_Crane_Resort_in_Barbados_in_March_2024.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_the_beach_at_The_Crane_Resort_in_Barbados_in_March_2024.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/barbados-3.jpg",
@@ -697,7 +797,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Berit from Redhill/Surrey, UK",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Barbados_beach_(6735320631).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Barbados_beach_(6735320631).jpg",
+    "h": 803,
+    "w": 1200
    }
   ],
   "videos": [
@@ -723,7 +825,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Brian Snelson",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Old_Square,_Havana.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Old_Square,_Havana.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/cuba-2.jpg",
@@ -731,7 +835,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Tarjetas Michelena, Cardenas (publisher)",
     "license": "Public domain",
     "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Varadero_Beach_-_Views.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Varadero_Beach_-_Views.jpg",
+    "h": 746,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/cuba-3.jpg",
@@ -739,7 +845,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Harris Brothers, Havana (publisher)",
     "license": "Public domain",
     "licenseUrl": "",
-    "page": "https://commons.wikimedia.org/wiki/File:Havana_Vieja.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Havana_Vieja.jpg",
+    "h": 776,
+    "w": 1200
    }
   ],
   "videos": [
@@ -765,7 +873,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Jarle Naustvik",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Tamarindo_beach-Guanacaste-Costa_Rica.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Tamarindo_beach-Guanacaste-Costa_Rica.jpg",
+    "h": 800,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/guanacaste-2.jpg",
@@ -773,7 +883,9 @@ window.SB_DEST_MEDIA = {
     "credit": "ImagePerson",
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "page": "https://commons.wikimedia.org/wiki/File:Costa_Rica_Langosta_Beach_near_Tamarindo_0208.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Costa_Rica_Langosta_Beach_near_Tamarindo_0208.jpg",
+    "h": 799,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/guanacaste-3.jpg",
@@ -781,7 +893,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Alicearias11",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Playa_Punta_Manzanillo_-_Provincia_de_Guanacaste_Costa_Rica.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Playa_Punta_Manzanillo_-_Provincia_de_Guanacaste_Costa_Rica.jpg",
+    "h": 900,
+    "w": 1200
    }
   ],
   "videos": [
@@ -807,7 +921,9 @@ window.SB_DEST_MEDIA = {
     "credit": "South African Tourism from South Africa",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Valley_of_the_Waves,_Sun_City,_North_West,_South_Africa_(20530946795).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Valley_of_the_Waves,_Sun_City,_North_West,_South_Africa_(20530946795).jpg",
+    "h": 798,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/suncity-2.jpg",
@@ -815,7 +931,9 @@ window.SB_DEST_MEDIA = {
     "credit": "South African Tourism from South Africa",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Casino,_Sun_City,_North_West,_South_Africa_(20344172949).jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:The_Casino,_Sun_City,_North_West,_South_Africa_(20344172949).jpg",
+    "h": 798,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/suncity-3.jpg",
@@ -823,7 +941,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Ossewa",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Scoopy,_Valley_of_Waves,_Sun_City.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Scoopy,_Valley_of_Waves,_Sun_City.jpg",
+    "h": 817,
+    "w": 1200
    }
   ],
   "videos": [
@@ -849,7 +969,9 @@ window.SB_DEST_MEDIA = {
     "credit": "ANDREJ NEUHERZ",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:ZR%C4%86E_BEACH_NOVALJA_-_panoramio.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:ZR%C4%86E_BEACH_NOVALJA_-_panoramio.jpg",
+    "h": 674,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/zrce-2.jpg",
@@ -857,7 +979,9 @@ window.SB_DEST_MEDIA = {
     "credit": "fotogoocom",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Party_Beach_-_Novalja_-_panoramio.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Party_Beach_-_Novalja_-_panoramio.jpg",
+    "h": 900,
+    "w": 1200
    },
    {
     "src": "assets/img/destinations/zrce-3.jpg",
@@ -865,7 +989,9 @@ window.SB_DEST_MEDIA = {
     "credit": "Palauenc05",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Novalja_Hafen.jpg"
+    "page": "https://commons.wikimedia.org/wiki/File:Novalja_Hafen.jpg",
+    "h": 768,
+    "w": 1200
    }
   ],
   "videos": [

@@ -6,6 +6,7 @@
 
 window.SB = {
   asOf: "November 11, 2026",
+  asOfISO: "2026-11-11",
 
   keyDates: [
     { date: "2027-03-06", end: "2027-03-28", label: "Peak spring break window", note: "Easter is early in 2027 (Mar 28), so most college breaks fall between Mar 6 and Mar 28.", src: "floridarambler" },
