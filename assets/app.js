@@ -22,7 +22,7 @@
       `(2) 2027 packages from StudentCity, STS Travel, Inertia Tours and other college tour companies, with prices and what's included; ` +
       `(3) top student hotels and party venues; ` +
       `(4) local rules, curfews, age limits and entry/travel requirements; ` +
-      `(5) the cheapest and busiest weeks to go. Use springbreak.com (${d.sbUrl}) as a reference.` + SUFFIX
+      `(5) the cheapest and busiest weeks to go.` + SUFFIX
     );
   }
   function companyPrompt(c) {
@@ -148,7 +148,7 @@
           <div><p class="eyebrow">${esc(d.state)} · ${esc(d.region)}</p><h3>${esc(d.name)}</h3></div>
           ${badge(d.status)}
         </header>
-        <p class="vibe">${esc(d.vibe)}</p>
+        <p class="vibe">${esc(d.vibe)} <a class="more-info" href="destinations/${d.id}.html">More Information</a></p>
         ${popBlock(d)}
         ${d.events2027.length ? `<ul class="events">${d.events2027.map((e) => `
           <li><span class="dot dot-${e.status}" aria-hidden="true"></span><div><b>${esc(e.name)}</b><small>${esc(e.when)}${e.src ? srcLink(e.src) : ""}</small></div></li>`).join("")}</ul>` : ""}
@@ -157,7 +157,7 @@
         ${d.note ? `<p class="note">${esc(d.note)}</p>` : ""}
         <footer class="card-foot">
           ${askButtons(destPrompt(d))}
-          <a class="ref" href="${d.sbUrl}" target="_blank" rel="noopener">${d.sbUrl === "https://www.springbreak.com/" ? "springbreak.com" : d.sbUrl.includes("springbreak.com") ? "springbreak.com page" : "Operator page"} ↗</a>
+          <a class="ref ref-guide" href="destinations/${d.id}.html">${esc(d.name)} guide →</a>
         </footer>
       </article>`).join("");
   }

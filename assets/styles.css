@@ -272,3 +272,11 @@ a { color: var(--sea); }
   .hero-inner { padding: 48px 16px 96px; }
 }
 .logo .logo-sep { color: var(--ink-2); font-weight: 500; margin: 0 2px; }
+.more-info { font-weight: 600; color: var(--sea); white-space: nowrap; }
+.more-info::after { content: " →"; }
+.side-card + .side-card { margin-top: 16px; }
+.side-card h3 { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.side-card .events { margin-bottom: 12px; }
+.side-card .venues, .side-card .note { margin-bottom: 12px; }
+.side-card.pop { display: grid; gap: 10px; }
+.side-ev { margin: 0; padding-left: 18px; font-size: 13px; color: var(--ink-2); display: grid; gap: 4px; }
