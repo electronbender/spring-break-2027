@@ -327,15 +327,3 @@ a { color: var(--sea); }
 .sched .ok, .section-head .ok { color: var(--ok); }
 .sched .ok-src { color: var(--ok); font-weight: 600; text-decoration: none; }
 .sched .ok-src:hover { text-decoration: underline; }
-
-/* Help Support This Site (PayPal) */
-.btn-support { background: #ffc439; color: #111; border-color: #f2b01e; white-space: nowrap; flex-shrink: 0; }
-.btn-support:hover { filter: brightness(1.05); color: #111; }
-.btn-support span[aria-hidden] { color: #d6336c; }
-.site-foot { border-top: 1px solid var(--line); background: var(--surface-2); margin-top: 24px; }
-.site-foot-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding-top: 28px; padding-bottom: 36px; }
-.site-foot-inner p { margin: 0; color: var(--ink-2); max-width: 620px; }
-@media (max-width: 760px) { .topbar .support-label { display: none; } .topbar .btn-support { padding: 8px 10px; } }
-.support-short { display: none; }
-@media (max-width: 1360px) { .topbar nav { gap: 14px; } .topbar { gap: 14px; } }
-@media (max-width: 760px) { .topbar .support-short { display: inline; } }
