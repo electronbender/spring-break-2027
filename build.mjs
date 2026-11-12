@@ -378,9 +378,21 @@ write("llms-full.txt", [homeMd, schoolsMd, ...ranked.map(destMd), ...D.topics.ma
 
 // ---------- 8. sitemap.xml + robots.txt ----------
 const urls = [SITE_URL + "/", SCHOOL.url, ...D.destinations.map((d) => abs(`destinations/${d.id}.html`)), ...D.topics.map((t) => abs(`topics/${t.id}.html`))];
+// Images per page (Google image sitemap extension) so photos can show in image search
+const PAGE_IMAGES = {
+  [SITE_URL + "/"]: [DM.cancun.images[0]],
+  [SCHOOL.url]: [TM.dates.images[0]],
+  ...Object.fromEntries(D.destinations.map((d) => [abs(`destinations/${d.id}.html`), DM[d.id].images])),
+  ...Object.fromEntries(D.topics.map((t) => [abs(`topics/${t.id}.html`), TM[t.id].images]))
+};
+const xmlEsc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&apos;" }[c]));
 write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map((u) => `  <url><loc>${u}</loc><lastmod>${MODIFIED}</lastmod></url>`).join("\n")}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+${urls.map((u) => `  <url>
+    <loc>${xmlEsc(u)}</loc>
+    <lastmod>${MODIFIED}</lastmod>${(PAGE_IMAGES[u] || []).filter(Boolean).map((im) => `
+    <image:image><image:loc>${xmlEsc(abs(im.src))}</image:loc></image:image>`).join("")}
+  </url>`).join("\n")}
 </urlset>
 `);
 write("robots.txt", `# Search engines and AI assistants are welcome to crawl and cite this site.
