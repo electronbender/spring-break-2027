@@ -2,7 +2,7 @@
 
 > A "two-nation vacation" on the tip of the longest barrier island in the U.S., about 40 minutes from Mexico. South Padre is Texas' spring break capital, and Texas Week brings the biggest crowds.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/spi.html
+URL: https://springbreak.com/destinations/spi.html
 Location: Texas, USA
 Updated: 2026-11-11
 2027 status: partly announced

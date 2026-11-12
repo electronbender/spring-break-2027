@@ -2,7 +2,7 @@
 
 > Spring break began with college swim teams training in Fort Lauderdale in the 1930s. It grew into a mass migration that has moved from city to city ever since.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/history.html
+URL: https://springbreak.com/topics/history.html
 Updated: 2026-11-11
 
 ## Key facts

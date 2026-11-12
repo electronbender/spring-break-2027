@@ -2,7 +2,7 @@
 
 > The "Capital of Spring Break" in the mid-1980s, Daytona now markets to families and its police chief has said the city should stop positioning itself for spring break. Crowds still come, and so does strict enforcement.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/daytona.html
+URL: https://springbreak.com/destinations/daytona.html
 Location: Florida, USA
 Updated: 2026-11-11
 2027 status: TBA

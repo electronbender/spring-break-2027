@@ -2,7 +2,7 @@
 
 > A 3–5 night cruise to the Bahamas or Mexico bundles transport, room, food and entertainment, and lets you visit two or three ports in one week.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/cruises.html
+URL: https://springbreak.com/topics/cruises.html
 Updated: 2026-11-11
 
 ## Key facts

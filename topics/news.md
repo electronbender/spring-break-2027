@@ -2,7 +2,7 @@
 
 > The latest headlines shaping Spring Break 2027, from city crackdowns to festival lineups and record Caribbean travel.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/news.html
+URL: https://springbreak.com/topics/news.html
 Updated: 2026-11-11
 
 ## Key facts

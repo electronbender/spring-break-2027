@@ -2,7 +2,7 @@
 
 > A polished, English-speaking island with calm west-coast beaches and the St. Lawrence Gap's strip of bars and restaurants. It's a quieter, pricier alternative to the big party hubs.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/barbados.html
+URL: https://springbreak.com/destinations/barbados.html
 Location: Barbados, Caribbean
 Updated: 2026-11-11
 2027 status: TBA

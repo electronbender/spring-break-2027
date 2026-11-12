@@ -2,7 +2,7 @@
 
 > Destinations, parties, concerts and tour packages for Spring Break 2027, with 2026 popularity ratings and 2027 announcements from the major college tour companies and festivals.
 
-URL: https://electronbender.github.io/spring-break-2027/
+URL: https://springbreak.com/
 Updated: 2026-11-11
 
 ## Key 2027 dates
@@ -20,27 +20,27 @@ Score = (visitation + search/social buzz + spring-break crowd) / 15 × 100, each
 
 | Rank | Destination | Region | Score | 2027 status |
 |---|---|---|---|---|
-| 1 | [Cancun](https://electronbender.github.io/spring-break-2027/destinations/cancun.html) | Mexico | 97 | confirmed for 2027 |
-| 2 | [Punta Cana](https://electronbender.github.io/spring-break-2027/destinations/puntacana.html) | Caribbean | 90 | confirmed for 2027 |
-| 3 | [Nassau / Bahamas](https://electronbender.github.io/spring-break-2027/destinations/nassau.html) | Caribbean | 83 | confirmed for 2027 |
-| 4 | [South Padre Island](https://electronbender.github.io/spring-break-2027/destinations/spi.html) | USA | 80 | partly announced |
-| 5 | [Cabo San Lucas](https://electronbender.github.io/spring-break-2027/destinations/cabo.html) | Mexico | 80 | confirmed for 2027 |
-| 6 | [Miami & South Beach](https://electronbender.github.io/spring-break-2027/destinations/miami.html) | USA | 73 | confirmed for 2027 |
-| 7 | [Las Vegas](https://electronbender.github.io/spring-break-2027/destinations/vegas.html) | USA | 73 | partly announced |
-| 8 | [Lake Havasu](https://electronbender.github.io/spring-break-2027/destinations/havasu.html) | USA | 70 | TBA |
-| 9 | [Panama City Beach](https://electronbender.github.io/spring-break-2027/destinations/pcb.html) | USA | 63 | partly announced |
-| 10 | [Ft. Lauderdale](https://electronbender.github.io/spring-break-2027/destinations/ftl.html) | USA | 63 | TBA |
-| 11 | [Puerto Vallarta](https://electronbender.github.io/spring-break-2027/destinations/pv.html) | Mexico | 63 | TBA |
-| 12 | [Riviera Maya](https://electronbender.github.io/spring-break-2027/destinations/rivmaya.html) | Mexico | 63 | confirmed for 2027 |
-| 13 | [Montego Bay](https://electronbender.github.io/spring-break-2027/destinations/montego.html) | Caribbean | 60 | confirmed for 2027 |
-| 14 | [Daytona Beach](https://electronbender.github.io/spring-break-2027/destinations/daytona.html) | USA | 57 | TBA |
-| 15 | [Negril](https://electronbender.github.io/spring-break-2027/destinations/negril.html) | Caribbean | 50 | TBA |
-| 16 | [Guanacaste](https://electronbender.github.io/spring-break-2027/destinations/guanacaste.html) | International | 43 | confirmed for 2027 |
-| 17 | [Barbados](https://electronbender.github.io/spring-break-2027/destinations/barbados.html) | Caribbean | 37 | TBA |
-| 18 | [Acapulco](https://electronbender.github.io/spring-break-2027/destinations/acapulco.html) | Mexico | 33 | TBA |
-| 19 | [Zrće Beach](https://electronbender.github.io/spring-break-2027/destinations/zrce.html) | International | 23 | TBA |
-| 20 | [Cuba](https://electronbender.github.io/spring-break-2027/destinations/cuba.html) | Caribbean | 20 | TBA |
-| 21 | [Sun City](https://electronbender.github.io/spring-break-2027/destinations/suncity.html) | International | 20 | TBA |
+| 1 | [Cancun](https://springbreak.com/destinations/cancun.html) | Mexico | 97 | confirmed for 2027 |
+| 2 | [Punta Cana](https://springbreak.com/destinations/puntacana.html) | Caribbean | 90 | confirmed for 2027 |
+| 3 | [Nassau / Bahamas](https://springbreak.com/destinations/nassau.html) | Caribbean | 83 | confirmed for 2027 |
+| 4 | [South Padre Island](https://springbreak.com/destinations/spi.html) | USA | 80 | partly announced |
+| 5 | [Cabo San Lucas](https://springbreak.com/destinations/cabo.html) | Mexico | 80 | confirmed for 2027 |
+| 6 | [Miami & South Beach](https://springbreak.com/destinations/miami.html) | USA | 73 | confirmed for 2027 |
+| 7 | [Las Vegas](https://springbreak.com/destinations/vegas.html) | USA | 73 | partly announced |
+| 8 | [Lake Havasu](https://springbreak.com/destinations/havasu.html) | USA | 70 | TBA |
+| 9 | [Panama City Beach](https://springbreak.com/destinations/pcb.html) | USA | 63 | partly announced |
+| 10 | [Ft. Lauderdale](https://springbreak.com/destinations/ftl.html) | USA | 63 | TBA |
+| 11 | [Puerto Vallarta](https://springbreak.com/destinations/pv.html) | Mexico | 63 | TBA |
+| 12 | [Riviera Maya](https://springbreak.com/destinations/rivmaya.html) | Mexico | 63 | confirmed for 2027 |
+| 13 | [Montego Bay](https://springbreak.com/destinations/montego.html) | Caribbean | 60 | confirmed for 2027 |
+| 14 | [Daytona Beach](https://springbreak.com/destinations/daytona.html) | USA | 57 | TBA |
+| 15 | [Negril](https://springbreak.com/destinations/negril.html) | Caribbean | 50 | TBA |
+| 16 | [Guanacaste](https://springbreak.com/destinations/guanacaste.html) | International | 43 | confirmed for 2027 |
+| 17 | [Barbados](https://springbreak.com/destinations/barbados.html) | Caribbean | 37 | TBA |
+| 18 | [Acapulco](https://springbreak.com/destinations/acapulco.html) | Mexico | 33 | TBA |
+| 19 | [Zrće Beach](https://springbreak.com/destinations/zrce.html) | International | 23 | TBA |
+| 20 | [Cuba](https://springbreak.com/destinations/cuba.html) | Caribbean | 20 | TBA |
+| 21 | [Sun City](https://springbreak.com/destinations/suncity.html) | International | 20 | TBA |
 
 ## Spring break and college tour companies
 

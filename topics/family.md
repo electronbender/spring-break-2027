@@ -2,7 +2,7 @@
 
 > Family spring break peaks around the same weeks as college break. These spots skip the party scene.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/family.html
+URL: https://springbreak.com/topics/family.html
 Updated: 2026-11-11
 
 ## Key facts

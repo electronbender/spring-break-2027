@@ -2,7 +2,7 @@
 
 > The original spring break town, made famous by Where the Boys Are in 1960. Today it's calmer and more polished, with the beachfront Strip, Las Olas and a riverfront nightlife district.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/ftl.html
+URL: https://springbreak.com/destinations/ftl.html
 Location: Florida, USA
 Updated: 2026-11-11
 2027 status: TBA

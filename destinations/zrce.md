@@ -2,7 +2,7 @@
 
 > Europe's party beach on Croatia's island of Pag, with open-air clubs and boat parties. It's a summer destination: the clubs open in June.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/zrce.html
+URL: https://springbreak.com/destinations/zrce.html
 Location: Croatia, International
 Updated: 2026-11-11
 2027 status: TBA

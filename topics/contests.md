@@ -2,7 +2,7 @@
 
 > Free trips are real, but they come from trip-leader programs and official sweepstakes, not from DMs asking you to pay a fee.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/contests.html
+URL: https://springbreak.com/topics/contests.html
 Updated: 2026-11-11
 
 ## Key facts

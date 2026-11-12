@@ -2,7 +2,7 @@
 
 > A spring break package bundles your room, transfers and often a party schedule. Knowing what's included is the difference between a deal and a surprise bill.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/packages.html
+URL: https://springbreak.com/topics/packages.html
 Updated: 2026-11-11
 
 ## Key facts

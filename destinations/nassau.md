@@ -2,7 +2,7 @@
 
 > A short flight from the U.S. East Coast with pirate history, Paradise Island's mega-resort and party cruises. The Bahamas set a record with about 1.42 million visitors in March 2026.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/nassau.html
+URL: https://springbreak.com/destinations/nassau.html
 Location: Bahamas, Caribbean
 Updated: 2026-11-11
 2027 status: confirmed for 2027

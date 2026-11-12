@@ -11,7 +11,7 @@ import path from "node:path";
 import vm from "node:vm";
 
 const ROOT = path.dirname(new URL(import.meta.url).pathname);
-const SITE_URL = (process.env.SITE_URL || "https://electronbender.github.io/spring-break-2027").replace(/\/$/, "");
+const SITE_URL = (process.env.SITE_URL || "https://springbreak.com").replace(/\/$/, "");
 const SITE_NAME = "Springbreak.com";
 const read = (p) => fs.readFileSync(path.join(ROOT, p), "utf8");
 const write = (p, s) => { fs.mkdirSync(path.dirname(path.join(ROOT, p)), { recursive: true }); fs.writeFileSync(path.join(ROOT, p), s); };

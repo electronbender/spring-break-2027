@@ -2,7 +2,7 @@
 
 > More than 27 miles of white-sand Gulf beach, moderate prices and big beachfront clubs. MTV made Panama City Beach the default U.S. spring break, and it still draws huge college crowds every March.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/pcb.html
+URL: https://springbreak.com/destinations/pcb.html
 Location: Florida, USA
 Updated: 2026-11-11
 2027 status: partly announced

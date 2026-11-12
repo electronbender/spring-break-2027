@@ -2,7 +2,7 @@
 
 > Destinations, parties, concerts and tour packages for Spring Break 2027, with 2026 popularity ratings and 2027 announcements from the major college tour companies and festivals.
 
-URL: https://electronbender.github.io/spring-break-2027/
+URL: https://springbreak.com/
 Updated: 2026-11-11
 
 ## Key 2027 dates
@@ -20,27 +20,27 @@ Score = (visitation + search/social buzz + spring-break crowd) / 15 × 100, each
 
 | Rank | Destination | Region | Score | 2027 status |
 |---|---|---|---|---|
-| 1 | [Cancun](https://electronbender.github.io/spring-break-2027/destinations/cancun.html) | Mexico | 97 | confirmed for 2027 |
-| 2 | [Punta Cana](https://electronbender.github.io/spring-break-2027/destinations/puntacana.html) | Caribbean | 90 | confirmed for 2027 |
-| 3 | [Nassau / Bahamas](https://electronbender.github.io/spring-break-2027/destinations/nassau.html) | Caribbean | 83 | confirmed for 2027 |
-| 4 | [South Padre Island](https://electronbender.github.io/spring-break-2027/destinations/spi.html) | USA | 80 | partly announced |
-| 5 | [Cabo San Lucas](https://electronbender.github.io/spring-break-2027/destinations/cabo.html) | Mexico | 80 | confirmed for 2027 |
-| 6 | [Miami & South Beach](https://electronbender.github.io/spring-break-2027/destinations/miami.html) | USA | 73 | confirmed for 2027 |
-| 7 | [Las Vegas](https://electronbender.github.io/spring-break-2027/destinations/vegas.html) | USA | 73 | partly announced |
-| 8 | [Lake Havasu](https://electronbender.github.io/spring-break-2027/destinations/havasu.html) | USA | 70 | TBA |
-| 9 | [Panama City Beach](https://electronbender.github.io/spring-break-2027/destinations/pcb.html) | USA | 63 | partly announced |
-| 10 | [Ft. Lauderdale](https://electronbender.github.io/spring-break-2027/destinations/ftl.html) | USA | 63 | TBA |
-| 11 | [Puerto Vallarta](https://electronbender.github.io/spring-break-2027/destinations/pv.html) | Mexico | 63 | TBA |
-| 12 | [Riviera Maya](https://electronbender.github.io/spring-break-2027/destinations/rivmaya.html) | Mexico | 63 | confirmed for 2027 |
-| 13 | [Montego Bay](https://electronbender.github.io/spring-break-2027/destinations/montego.html) | Caribbean | 60 | confirmed for 2027 |
-| 14 | [Daytona Beach](https://electronbender.github.io/spring-break-2027/destinations/daytona.html) | USA | 57 | TBA |
-| 15 | [Negril](https://electronbender.github.io/spring-break-2027/destinations/negril.html) | Caribbean | 50 | TBA |
-| 16 | [Guanacaste](https://electronbender.github.io/spring-break-2027/destinations/guanacaste.html) | International | 43 | confirmed for 2027 |
-| 17 | [Barbados](https://electronbender.github.io/spring-break-2027/destinations/barbados.html) | Caribbean | 37 | TBA |
-| 18 | [Acapulco](https://electronbender.github.io/spring-break-2027/destinations/acapulco.html) | Mexico | 33 | TBA |
-| 19 | [Zrće Beach](https://electronbender.github.io/spring-break-2027/destinations/zrce.html) | International | 23 | TBA |
-| 20 | [Cuba](https://electronbender.github.io/spring-break-2027/destinations/cuba.html) | Caribbean | 20 | TBA |
-| 21 | [Sun City](https://electronbender.github.io/spring-break-2027/destinations/suncity.html) | International | 20 | TBA |
+| 1 | [Cancun](https://springbreak.com/destinations/cancun.html) | Mexico | 97 | confirmed for 2027 |
+| 2 | [Punta Cana](https://springbreak.com/destinations/puntacana.html) | Caribbean | 90 | confirmed for 2027 |
+| 3 | [Nassau / Bahamas](https://springbreak.com/destinations/nassau.html) | Caribbean | 83 | confirmed for 2027 |
+| 4 | [South Padre Island](https://springbreak.com/destinations/spi.html) | USA | 80 | partly announced |
+| 5 | [Cabo San Lucas](https://springbreak.com/destinations/cabo.html) | Mexico | 80 | confirmed for 2027 |
+| 6 | [Miami & South Beach](https://springbreak.com/destinations/miami.html) | USA | 73 | confirmed for 2027 |
+| 7 | [Las Vegas](https://springbreak.com/destinations/vegas.html) | USA | 73 | partly announced |
+| 8 | [Lake Havasu](https://springbreak.com/destinations/havasu.html) | USA | 70 | TBA |
+| 9 | [Panama City Beach](https://springbreak.com/destinations/pcb.html) | USA | 63 | partly announced |
+| 10 | [Ft. Lauderdale](https://springbreak.com/destinations/ftl.html) | USA | 63 | TBA |
+| 11 | [Puerto Vallarta](https://springbreak.com/destinations/pv.html) | Mexico | 63 | TBA |
+| 12 | [Riviera Maya](https://springbreak.com/destinations/rivmaya.html) | Mexico | 63 | confirmed for 2027 |
+| 13 | [Montego Bay](https://springbreak.com/destinations/montego.html) | Caribbean | 60 | confirmed for 2027 |
+| 14 | [Daytona Beach](https://springbreak.com/destinations/daytona.html) | USA | 57 | TBA |
+| 15 | [Negril](https://springbreak.com/destinations/negril.html) | Caribbean | 50 | TBA |
+| 16 | [Guanacaste](https://springbreak.com/destinations/guanacaste.html) | International | 43 | confirmed for 2027 |
+| 17 | [Barbados](https://springbreak.com/destinations/barbados.html) | Caribbean | 37 | TBA |
+| 18 | [Acapulco](https://springbreak.com/destinations/acapulco.html) | Mexico | 33 | TBA |
+| 19 | [Zrće Beach](https://springbreak.com/destinations/zrce.html) | International | 23 | TBA |
+| 20 | [Cuba](https://springbreak.com/destinations/cuba.html) | Caribbean | 20 | TBA |
+| 21 | [Sun City](https://springbreak.com/destinations/suncity.html) | International | 20 | TBA |
 
 ## Spring break and college tour companies
 
@@ -174,7 +174,7 @@ STS Travel added Guanacaste, Costa Rica as an adventure-focused destination, and
 
 > The #1 international spring break destination. Cancun's Hotel Zone combines turquoise Caribbean beaches, all-inclusive resorts and a club strip with light shows, open bars and stage shows every night.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/cancun.html
+URL: https://springbreak.com/destinations/cancun.html
 Location: Quintana Roo, Mexico
 Updated: 2026-11-11
 2027 status: confirmed for 2027
@@ -268,7 +268,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > White-sand Bávaro beaches, all-inclusive resorts and a nightclub inside a cave. Punta Cana was one of the most popular Caribbean picks in 2026, with the Dominican Republic setting a record for March visitors.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/puntacana.html
+URL: https://springbreak.com/destinations/puntacana.html
 Location: Dominican Republic, Caribbean
 Updated: 2026-11-11
 2027 status: confirmed for 2027
@@ -356,7 +356,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > A short flight from the U.S. East Coast with pirate history, Paradise Island's mega-resort and party cruises. The Bahamas set a record with about 1.42 million visitors in March 2026.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/nassau.html
+URL: https://springbreak.com/destinations/nassau.html
 Location: Bahamas, Caribbean
 Updated: 2026-11-11
 2027 status: confirmed for 2027
@@ -447,7 +447,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > A "two-nation vacation" on the tip of the longest barrier island in the U.S., about 40 minutes from Mexico. South Padre is Texas' spring break capital, and Texas Week brings the biggest crowds.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/spi.html
+URL: https://springbreak.com/destinations/spi.html
 Location: Texas, USA
 Updated: 2026-11-11
 2027 status: partly announced
@@ -538,7 +538,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > At the tip of Baja, Cabo San Lucas earned the nickname "Cabo San Loco": desert-meets-ocean scenery, Medano Beach day clubs and a compact downtown nightlife district.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/cabo.html
+URL: https://springbreak.com/destinations/cabo.html
 Location: Baja California Sur, Mexico
 Updated: 2026-11-11
 2027 status: confirmed for 2027
@@ -626,7 +626,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > Art Deco streets, sidewalk cafes and nightlife until dawn, plus Miami Music Week and Ultra at the end of March. Miami Beach now actively discourages spring break crowds, so expect tighter rules than anywhere else in Florida.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/miami.html
+URL: https://springbreak.com/destinations/miami.html
 Location: Florida, USA
 Updated: 2026-11-11
 2027 status: confirmed for 2027
@@ -707,7 +707,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > A road trip away for students in Arizona, Nevada and California. Spring break in Vegas means dayclubs, pool parties and huge resorts, and almost all of the nightlife is 21+.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/vegas.html
+URL: https://springbreak.com/destinations/vegas.html
 Location: Nevada, USA
 Updated: 2026-11-11
 2027 status: partly announced
@@ -785,7 +785,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > The West's biggest spring break happens on the water. Lake Havasu is all about boat parties on the Colorado River, the sandbar and Copper Canyon.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/havasu.html
+URL: https://springbreak.com/destinations/havasu.html
 Location: Arizona, USA
 Updated: 2026-11-11
 2027 status: TBA
@@ -856,7 +856,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > More than 27 miles of white-sand Gulf beach, moderate prices and big beachfront clubs. MTV made Panama City Beach the default U.S. spring break, and it still draws huge college crowds every March.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/pcb.html
+URL: https://springbreak.com/destinations/pcb.html
 Location: Florida, USA
 Updated: 2026-11-11
 2027 status: partly announced
@@ -941,7 +941,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > The original spring break town, made famous by Where the Boys Are in 1960. Today it's calmer and more polished, with the beachfront Strip, Las Olas and a riverfront nightlife district.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/ftl.html
+URL: https://springbreak.com/destinations/ftl.html
 Location: Florida, USA
 Updated: 2026-11-11
 2027 status: TBA
@@ -1017,7 +1017,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > On Mexico's Pacific coast, Puerto Vallarta is more relaxed than Cancun: cobblestone streets, the Malecón boardwalk, art galleries and several Cancun-brand clubs. It's popular with students from western universities.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/pv.html
+URL: https://springbreak.com/destinations/pv.html
 Location: Jalisco, Mexico
 Updated: 2026-11-11
 2027 status: TBA
@@ -1100,7 +1100,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > South of Cancun, the Riviera Maya trades megaclubs for Playa del Carmen's Fifth Avenue, cenotes and calmer all-inclusives. It shares Cancun's airport.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/rivmaya.html
+URL: https://springbreak.com/destinations/rivmaya.html
 Location: Quintana Roo, Mexico
 Updated: 2026-11-11
 2027 status: confirmed for 2027
@@ -1179,7 +1179,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > "Mo-Bay" is the capital of Jamaican spring break, with reggae, rum and the Hip Strip along Gloucester Avenue next to three public beaches.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/montego.html
+URL: https://springbreak.com/destinations/montego.html
 Location: Jamaica, Caribbean
 Updated: 2026-11-11
 2027 status: confirmed for 2027
@@ -1259,7 +1259,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > The "Capital of Spring Break" in the mid-1980s, Daytona now markets to families and its police chief has said the city should stop positioning itself for spring break. Crowds still come, and so does strict enforcement.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/daytona.html
+URL: https://springbreak.com/destinations/daytona.html
 Location: Florida, USA
 Updated: 2026-11-11
 2027 status: TBA
@@ -1339,7 +1339,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > Seven Mile Beach, cliffside sunsets and a laid-back reggae scene. Height limits keep Negril's hotels at treetop level, and it's famous for cliff jumping at Rick's Café.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/negril.html
+URL: https://springbreak.com/destinations/negril.html
 Location: Jamaica, Caribbean
 Updated: 2026-11-11
 2027 status: TBA
@@ -1416,7 +1416,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > New for 2027: STS Travel's Guanacaste trip pairs Costa Rica's Pacific beaches with ziplines, surfing and volcano adventures.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/guanacaste.html
+URL: https://springbreak.com/destinations/guanacaste.html
 Location: Costa Rica, International
 Updated: 2026-11-11
 2027 status: confirmed for 2027
@@ -1492,7 +1492,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > A polished, English-speaking island with calm west-coast beaches and the St. Lawrence Gap's strip of bars and restaurants. It's a quieter, pricier alternative to the big party hubs.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/barbados.html
+URL: https://springbreak.com/destinations/barbados.html
 Location: Barbados, Caribbean
 Updated: 2026-11-11
 2027 status: TBA
@@ -1558,7 +1558,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > Mexico's retro spring break original, with cliff divers, clubs overlooking the bay and beaches from Condesa to the Hyatt. Major tour operators no longer run student trips here.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/acapulco.html
+URL: https://springbreak.com/destinations/acapulco.html
 Location: Guerrero, Mexico
 Updated: 2026-11-11
 2027 status: TBA
@@ -1634,7 +1634,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > Europe's party beach on Croatia's island of Pag, with open-air clubs and boat parties. It's a summer destination: the clubs open in June.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/zrce.html
+URL: https://springbreak.com/destinations/zrce.html
 Location: Croatia, International
 Updated: 2026-11-11
 2027 status: TBA
@@ -1694,7 +1694,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > Havana's old town, classic cars and Varadero's 13-mile beach. For Americans, Cuba isn't a spring break party trip: U.S. law still restricts tourist travel.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/cuba.html
+URL: https://springbreak.com/destinations/cuba.html
 Location: Cuba, Caribbean
 Updated: 2026-11-11
 2027 status: TBA
@@ -1759,7 +1759,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > South Africa's resort city, known for its Valley of the Waves water park. Sun City's "spring break" is a late-September event, since spring falls then in the southern hemisphere.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/suncity.html
+URL: https://springbreak.com/destinations/suncity.html
 Location: South Africa, International
 Updated: 2026-11-11
 2027 status: TBA
@@ -1818,7 +1818,7 @@ Most college spring breaks in 2027 fall between March 6 and March 28. Easter is 
 
 > Easter falls on March 28 in 2027, so the season is compressed: most college breaks land between March 6 and March 28.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/dates.html
+URL: https://springbreak.com/topics/dates.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -1858,7 +1858,7 @@ Texas schools usually share one week (South Padre Island called it "Spring Break
 
 > Miami owns the last week of March: Miami Music Week runs Mar 22–28 and Ultra closes it out Mar 26–28 at Bayfront Park. Beach-town concert lineups are usually announced in December and January.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/concerts.html
+URL: https://springbreak.com/topics/concerts.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -1896,7 +1896,7 @@ The 27th edition has announced its Phase 1 lineup, led by Calvin Harris. Other n
 
 > A spring break package bundles your room, transfers and often a party schedule. Knowing what's included is the difference between a deal and a surprise bill.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/packages.html
+URL: https://springbreak.com/topics/packages.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -1936,7 +1936,7 @@ Updated: 2026-11-11
 
 > Driving to a U.S. beach is still the cheapest spring break. What you pay depends on when you go and how many people share a room.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/prices-us.html
+URL: https://springbreak.com/topics/prices-us.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -1977,7 +1977,7 @@ Updated: 2026-11-11
 
 > Mexico and the Caribbean cost more upfront, but all-inclusive pricing makes the total predictable: one price covers room, meals and drinks.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/prices-mx.html
+URL: https://springbreak.com/topics/prices-mx.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2017,7 +2017,7 @@ Updated: 2026-11-11
 
 > If you're flying to Mexico or the Caribbean in March 2027, you need a passport book. Apply early: spring is peak season for passport applications.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/passports.html
+URL: https://springbreak.com/topics/passports.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2056,7 +2056,7 @@ Updated: 2026-11-11
 
 > Spring break 2026 showed both sides: Miami Beach was calmer than in years, while Daytona Beach logged 75 arrests in one weekend. Know the local rules before you go.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/safety.html
+URL: https://springbreak.com/topics/safety.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2098,7 +2098,7 @@ Updated: 2026-11-11
 
 > A 3–5 night cruise to the Bahamas or Mexico bundles transport, room, food and entertainment, and lets you visit two or three ports in one week.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/cruises.html
+URL: https://springbreak.com/topics/cruises.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2137,7 +2137,7 @@ Updated: 2026-11-11
 
 > Family spring break peaks around the same weeks as college break. These spots skip the party scene.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/family.html
+URL: https://springbreak.com/topics/family.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2177,7 +2177,7 @@ Updated: 2026-11-11
 
 > Pack light, pack smart. Most spring break trips need one carry-on and a beach bag.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/gear.html
+URL: https://springbreak.com/topics/gear.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2217,7 +2217,7 @@ Updated: 2026-11-11
 
 > Tour companies handle flights, hotels and the party schedule for you. Here's how the big three compare for 2027.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/tours.html
+URL: https://springbreak.com/topics/tours.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2263,7 +2263,7 @@ Updated: 2026-11-11
 
 > Spring break became a pop-culture event thanks to Hollywood, starting with a 1960 film set on Fort Lauderdale's beach.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/films.html
+URL: https://springbreak.com/topics/films.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2297,7 +2297,7 @@ Updated: 2026-11-11
 
 > Spring break began with college swim teams training in Fort Lauderdale in the 1930s. It grew into a mass migration that has moved from city to city ever since.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/history.html
+URL: https://springbreak.com/topics/history.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2336,7 +2336,7 @@ Tour operators are adding adventure-focused trips like Guanacaste, Costa Rica, w
 
 > Free trips are real, but they come from trip-leader programs and official sweepstakes, not from DMs asking you to pay a fee.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/contests.html
+URL: https://springbreak.com/topics/contests.html
 Updated: 2026-11-11
 
 ## Key facts
@@ -2369,7 +2369,7 @@ Updated: 2026-11-11
 
 > The latest headlines shaping Spring Break 2027, from city crackdowns to festival lineups and record Caribbean travel.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/news.html
+URL: https://springbreak.com/topics/news.html
 Updated: 2026-11-11
 
 ## Key facts

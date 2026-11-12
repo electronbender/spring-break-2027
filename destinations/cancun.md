@@ -2,7 +2,7 @@
 
 > The #1 international spring break destination. Cancun's Hotel Zone combines turquoise Caribbean beaches, all-inclusive resorts and a club strip with light shows, open bars and stage shows every night.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/cancun.html
+URL: https://springbreak.com/destinations/cancun.html
 Location: Quintana Roo, Mexico
 Updated: 2026-11-11
 2027 status: confirmed for 2027

@@ -2,7 +2,7 @@
 
 > New for 2027: STS Travel's Guanacaste trip pairs Costa Rica's Pacific beaches with ziplines, surfing and volcano adventures.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/guanacaste.html
+URL: https://springbreak.com/destinations/guanacaste.html
 Location: Costa Rica, International
 Updated: 2026-11-11
 2027 status: confirmed for 2027

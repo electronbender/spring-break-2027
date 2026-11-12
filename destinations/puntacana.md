@@ -2,7 +2,7 @@
 
 > White-sand Bávaro beaches, all-inclusive resorts and a nightclub inside a cave. Punta Cana was one of the most popular Caribbean picks in 2026, with the Dominican Republic setting a record for March visitors.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/puntacana.html
+URL: https://springbreak.com/destinations/puntacana.html
 Location: Dominican Republic, Caribbean
 Updated: 2026-11-11
 2027 status: confirmed for 2027

@@ -2,7 +2,7 @@
 
 > On Mexico's Pacific coast, Puerto Vallarta is more relaxed than Cancun: cobblestone streets, the Malecón boardwalk, art galleries and several Cancun-brand clubs. It's popular with students from western universities.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/pv.html
+URL: https://springbreak.com/destinations/pv.html
 Location: Jalisco, Mexico
 Updated: 2026-11-11
 2027 status: TBA

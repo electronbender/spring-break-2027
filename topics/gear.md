@@ -2,7 +2,7 @@
 
 > Pack light, pack smart. Most spring break trips need one carry-on and a beach bag.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/gear.html
+URL: https://springbreak.com/topics/gear.html
 Updated: 2026-11-11
 
 ## Key facts

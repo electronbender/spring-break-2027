@@ -2,7 +2,7 @@
 
 > Easter falls on March 28 in 2027, so the season is compressed: most college breaks land between March 6 and March 28.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/dates.html
+URL: https://springbreak.com/topics/dates.html
 Updated: 2026-11-11
 
 ## Key facts

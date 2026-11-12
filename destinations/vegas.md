@@ -2,7 +2,7 @@
 
 > A road trip away for students in Arizona, Nevada and California. Spring break in Vegas means dayclubs, pool parties and huge resorts, and almost all of the nightlife is 21+.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/vegas.html
+URL: https://springbreak.com/destinations/vegas.html
 Location: Nevada, USA
 Updated: 2026-11-11
 2027 status: partly announced

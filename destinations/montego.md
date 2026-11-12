@@ -2,7 +2,7 @@
 
 > "Mo-Bay" is the capital of Jamaican spring break, with reggae, rum and the Hip Strip along Gloucester Avenue next to three public beaches.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/montego.html
+URL: https://springbreak.com/destinations/montego.html
 Location: Jamaica, Caribbean
 Updated: 2026-11-11
 2027 status: confirmed for 2027

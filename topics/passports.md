@@ -2,7 +2,7 @@
 
 > If you're flying to Mexico or the Caribbean in March 2027, you need a passport book. Apply early: spring is peak season for passport applications.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/passports.html
+URL: https://springbreak.com/topics/passports.html
 Updated: 2026-11-11
 
 ## Key facts

@@ -2,7 +2,7 @@
 
 > Spring break became a pop-culture event thanks to Hollywood, starting with a 1960 film set on Fort Lauderdale's beach.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/films.html
+URL: https://springbreak.com/topics/films.html
 Updated: 2026-11-11
 
 ## Key facts

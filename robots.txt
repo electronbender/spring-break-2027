@@ -30,4 +30,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://electronbender.github.io/spring-break-2027/sitemap.xml
+Sitemap: https://springbreak.com/sitemap.xml

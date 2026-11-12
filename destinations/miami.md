@@ -2,7 +2,7 @@
 
 > Art Deco streets, sidewalk cafes and nightlife until dawn, plus Miami Music Week and Ultra at the end of March. Miami Beach now actively discourages spring break crowds, so expect tighter rules than anywhere else in Florida.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/miami.html
+URL: https://springbreak.com/destinations/miami.html
 Location: Florida, USA
 Updated: 2026-11-11
 2027 status: confirmed for 2027

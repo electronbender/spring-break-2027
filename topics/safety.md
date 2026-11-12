@@ -2,7 +2,7 @@
 
 > Spring break 2026 showed both sides: Miami Beach was calmer than in years, while Daytona Beach logged 75 arrests in one weekend. Know the local rules before you go.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/safety.html
+URL: https://springbreak.com/topics/safety.html
 Updated: 2026-11-11
 
 ## Key facts

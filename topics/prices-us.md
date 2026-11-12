@@ -2,7 +2,7 @@
 
 > Driving to a U.S. beach is still the cheapest spring break. What you pay depends on when you go and how many people share a room.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/prices-us.html
+URL: https://springbreak.com/topics/prices-us.html
 Updated: 2026-11-11
 
 ## Key facts

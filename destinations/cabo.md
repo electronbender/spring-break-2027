@@ -2,7 +2,7 @@
 
 > At the tip of Baja, Cabo San Lucas earned the nickname "Cabo San Loco": desert-meets-ocean scenery, Medano Beach day clubs and a compact downtown nightlife district.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/cabo.html
+URL: https://springbreak.com/destinations/cabo.html
 Location: Baja California Sur, Mexico
 Updated: 2026-11-11
 2027 status: confirmed for 2027

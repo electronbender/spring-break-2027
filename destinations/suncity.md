@@ -2,7 +2,7 @@
 
 > South Africa's resort city, known for its Valley of the Waves water park. Sun City's "spring break" is a late-September event, since spring falls then in the southern hemisphere.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/suncity.html
+URL: https://springbreak.com/destinations/suncity.html
 Location: South Africa, International
 Updated: 2026-11-11
 2027 status: TBA

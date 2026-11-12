@@ -2,7 +2,7 @@
 
 > Havana's old town, classic cars and Varadero's 13-mile beach. For Americans, Cuba isn't a spring break party trip: U.S. law still restricts tourist travel.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/cuba.html
+URL: https://springbreak.com/destinations/cuba.html
 Location: Cuba, Caribbean
 Updated: 2026-11-11
 2027 status: TBA

@@ -2,7 +2,7 @@
 
 > Mexico's retro spring break original, with cliff divers, clubs overlooking the bay and beaches from Condesa to the Hyatt. Major tour operators no longer run student trips here.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/acapulco.html
+URL: https://springbreak.com/destinations/acapulco.html
 Location: Guerrero, Mexico
 Updated: 2026-11-11
 2027 status: TBA

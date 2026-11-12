@@ -2,7 +2,7 @@
 
 > The West's biggest spring break happens on the water. Lake Havasu is all about boat parties on the Colorado River, the sandbar and Copper Canyon.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/havasu.html
+URL: https://springbreak.com/destinations/havasu.html
 Location: Arizona, USA
 Updated: 2026-11-11
 2027 status: TBA

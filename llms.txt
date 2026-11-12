@@ -2,54 +2,54 @@
 
 > The Springbreak.com guide to college spring break 2027: 21 destinations ranked by Spring Break 2026 popularity, 2027 dates and festivals (Ultra Miami Mar 26–28, 2027), tour packages from StudentCity, STS Travel and Inertia Tours, and planning guides. Facts are current as of November 11, 2026; 2027 items not yet announced are marked TBA.
 
-Each page has a Markdown version at the same path with a .md extension. The full site in one file: https://electronbender.github.io/spring-break-2027/llms-full.txt
+Each page has a Markdown version at the same path with a .md extension. The full site in one file: https://springbreak.com/llms-full.txt
 
 ## Overview
 
-- [Home: dates, popularity ranking, tour companies](https://electronbender.github.io/spring-break-2027/index.md): key 2027 dates, ranked destinations and FAQ
+- [Home: dates, popularity ranking, tour companies](https://springbreak.com/index.md): key 2027 dates, ranked destinations and FAQ
 
 ## Destinations
 
-- [Cancun](https://electronbender.github.io/spring-break-2027/destinations/cancun.md): Quintana Roo, Mexico. 2026 popularity 97/100. The #1 international spring break destination, with a hotel-zone club strip.
-- [Punta Cana](https://electronbender.github.io/spring-break-2027/destinations/puntacana.md): Dominican Republic, Caribbean. 2026 popularity 90/100. All-inclusive resorts and the cave nightclub.
-- [Nassau / Bahamas](https://electronbender.github.io/spring-break-2027/destinations/nassau.md): Bahamas, Caribbean. 2026 popularity 83/100. Short flight from the U.S. East Coast, with beach bashes and party cruises.
-- [South Padre Island](https://electronbender.github.io/spring-break-2027/destinations/spi.md): Texas, USA. 2026 popularity 80/100. Texas' spring break capital, with beach concerts and condo parties.
-- [Cabo San Lucas](https://electronbender.github.io/spring-break-2027/destinations/cabo.md): Baja California Sur, Mexico. 2026 popularity 80/100. Medano Beach days, boat parties and desert sunsets.
-- [Miami & South Beach](https://electronbender.github.io/spring-break-2027/destinations/miami.md): Florida, USA. 2026 popularity 73/100. Spring break meets Miami Music Week and Ultra.
-- [Las Vegas](https://electronbender.github.io/spring-break-2027/destinations/vegas.md): Nevada, USA. 2026 popularity 73/100. Dayclubs, pool parties and EDM residencies, for travelers 21 and over.
-- [Lake Havasu](https://electronbender.github.io/spring-break-2027/destinations/havasu.md): Arizona, USA. 2026 popularity 70/100. The West's biggest spring break, centered on boats.
-- [Panama City Beach](https://electronbender.github.io/spring-break-2027/destinations/pcb.md): Florida, USA. 2026 popularity 63/100. 27+ miles of beach and the biggest drive-to party in the Southeast.
-- [Ft. Lauderdale](https://electronbender.github.io/spring-break-2027/destinations/ftl.md): Florida, USA. 2026 popularity 63/100. The original spring break strip, now quieter.
-- [Puerto Vallarta](https://electronbender.github.io/spring-break-2027/destinations/pv.md): Jalisco, Mexico. 2026 popularity 63/100. Malecón nightlife on Banderas Bay.
-- [Riviera Maya](https://electronbender.github.io/spring-break-2027/destinations/rivmaya.md): Quintana Roo, Mexico. 2026 popularity 63/100. A calmer, resort-based option south of Cancun.
-- [Montego Bay](https://electronbender.github.io/spring-break-2027/destinations/montego.md): Jamaica, Caribbean. 2026 popularity 60/100. Hip Strip nightlife and reggae.
-- [Daytona Beach](https://electronbender.github.io/spring-break-2027/destinations/daytona.md): Florida, USA. 2026 popularity 57/100. Classic spring break spot whose city now discourages spring breakers.
-- [Negril](https://electronbender.github.io/spring-break-2027/destinations/negril.md): Jamaica, Caribbean. 2026 popularity 50/100. Seven Mile Beach and cliff-jumping at Rick's Café.
-- [Guanacaste](https://electronbender.github.io/spring-break-2027/destinations/guanacaste.md): Costa Rica, International. 2026 popularity 43/100. New for 2027: ziplines, surfing and beach parties.
-- [Barbados](https://electronbender.github.io/spring-break-2027/destinations/barbados.md): Barbados, Caribbean. 2026 popularity 37/100. St. Lawrence Gap nightlife.
-- [Acapulco](https://electronbender.github.io/spring-break-2027/destinations/acapulco.md): Guerrero, Mexico. 2026 popularity 33/100. Mexico's retro spring break original.
-- [Zrće Beach](https://electronbender.github.io/spring-break-2027/destinations/zrce.md): Croatia, International. 2026 popularity 23/100. Europe's party beach. Clubs open in summer, not spring.
-- [Cuba](https://electronbender.github.io/spring-break-2027/destinations/cuba.md): Cuba, Caribbean. 2026 popularity 20/100. Havana culture trips, not party packages.
-- [Sun City](https://electronbender.github.io/spring-break-2027/destinations/suncity.md): South Africa, International. 2026 popularity 20/100. South Africa's resort spring break.
+- [Cancun](https://springbreak.com/destinations/cancun.md): Quintana Roo, Mexico. 2026 popularity 97/100. The #1 international spring break destination, with a hotel-zone club strip.
+- [Punta Cana](https://springbreak.com/destinations/puntacana.md): Dominican Republic, Caribbean. 2026 popularity 90/100. All-inclusive resorts and the cave nightclub.
+- [Nassau / Bahamas](https://springbreak.com/destinations/nassau.md): Bahamas, Caribbean. 2026 popularity 83/100. Short flight from the U.S. East Coast, with beach bashes and party cruises.
+- [South Padre Island](https://springbreak.com/destinations/spi.md): Texas, USA. 2026 popularity 80/100. Texas' spring break capital, with beach concerts and condo parties.
+- [Cabo San Lucas](https://springbreak.com/destinations/cabo.md): Baja California Sur, Mexico. 2026 popularity 80/100. Medano Beach days, boat parties and desert sunsets.
+- [Miami & South Beach](https://springbreak.com/destinations/miami.md): Florida, USA. 2026 popularity 73/100. Spring break meets Miami Music Week and Ultra.
+- [Las Vegas](https://springbreak.com/destinations/vegas.md): Nevada, USA. 2026 popularity 73/100. Dayclubs, pool parties and EDM residencies, for travelers 21 and over.
+- [Lake Havasu](https://springbreak.com/destinations/havasu.md): Arizona, USA. 2026 popularity 70/100. The West's biggest spring break, centered on boats.
+- [Panama City Beach](https://springbreak.com/destinations/pcb.md): Florida, USA. 2026 popularity 63/100. 27+ miles of beach and the biggest drive-to party in the Southeast.
+- [Ft. Lauderdale](https://springbreak.com/destinations/ftl.md): Florida, USA. 2026 popularity 63/100. The original spring break strip, now quieter.
+- [Puerto Vallarta](https://springbreak.com/destinations/pv.md): Jalisco, Mexico. 2026 popularity 63/100. Malecón nightlife on Banderas Bay.
+- [Riviera Maya](https://springbreak.com/destinations/rivmaya.md): Quintana Roo, Mexico. 2026 popularity 63/100. A calmer, resort-based option south of Cancun.
+- [Montego Bay](https://springbreak.com/destinations/montego.md): Jamaica, Caribbean. 2026 popularity 60/100. Hip Strip nightlife and reggae.
+- [Daytona Beach](https://springbreak.com/destinations/daytona.md): Florida, USA. 2026 popularity 57/100. Classic spring break spot whose city now discourages spring breakers.
+- [Negril](https://springbreak.com/destinations/negril.md): Jamaica, Caribbean. 2026 popularity 50/100. Seven Mile Beach and cliff-jumping at Rick's Café.
+- [Guanacaste](https://springbreak.com/destinations/guanacaste.md): Costa Rica, International. 2026 popularity 43/100. New for 2027: ziplines, surfing and beach parties.
+- [Barbados](https://springbreak.com/destinations/barbados.md): Barbados, Caribbean. 2026 popularity 37/100. St. Lawrence Gap nightlife.
+- [Acapulco](https://springbreak.com/destinations/acapulco.md): Guerrero, Mexico. 2026 popularity 33/100. Mexico's retro spring break original.
+- [Zrće Beach](https://springbreak.com/destinations/zrce.md): Croatia, International. 2026 popularity 23/100. Europe's party beach. Clubs open in summer, not spring.
+- [Cuba](https://springbreak.com/destinations/cuba.md): Cuba, Caribbean. 2026 popularity 20/100. Havana culture trips, not party packages.
+- [Sun City](https://springbreak.com/destinations/suncity.md): South Africa, International. 2026 popularity 20/100. South Africa's resort spring break.
 
 ## Guides
 
-- [Spring Break 2027 Dates](https://electronbender.github.io/spring-break-2027/topics/dates.md): Break dates by college, plus the peak weeks for Mar 2027.
-- [Concerts & Festivals](https://electronbender.github.io/spring-break-2027/topics/concerts.md): Ultra, Miami Music Week, beach concerts and pool-party lineups.
-- [Spring Break 101: Packages](https://electronbender.github.io/spring-break-2027/topics/packages.md): All-inclusive vs. value-added vs. party packages.
-- [U.S. Price Guide](https://electronbender.github.io/spring-break-2027/topics/prices-us.md): What a week costs in PCB, SPI, Miami and Vegas.
-- [Mexico & Caribbean Price Guide](https://electronbender.github.io/spring-break-2027/topics/prices-mx.md): Package prices with and without flights.
-- [Passports & Travel Docs](https://electronbender.github.io/spring-break-2027/topics/passports.md): Processing times and deadlines to travel in March 2027.
-- [Safety & Local Rules](https://electronbender.github.io/spring-break-2027/topics/safety.md): Curfews, alcohol bans and travel advisories.
-- [Spring Break Cruises](https://electronbender.github.io/spring-break-2027/topics/cruises.md): Short Bahamas and Mexico sailings.
-- [Family Spring Break](https://electronbender.github.io/spring-break-2027/topics/family.md): Kid-friendly alternatives and deals.
-- [Packing & Gear](https://electronbender.github.io/spring-break-2027/topics/gear.md): What to pack for beach, boat and club.
-- [Tour Company Comparison](https://electronbender.github.io/spring-break-2027/topics/tours.md): StudentCity vs. STS vs. Inertia and others.
-- [Spring Break Films](https://electronbender.github.io/spring-break-2027/topics/films.md): The movies that built the myth.
-- [History of Spring Break](https://electronbender.github.io/spring-break-2027/topics/history.md): From Ft. Lauderdale 1930s to Cancun.
-- [Contests & Sweepstakes](https://electronbender.github.io/spring-break-2027/topics/contests.md): Free trip giveaways and campus rep programs.
-- [Spring Break News](https://electronbender.github.io/spring-break-2027/topics/news.md): The latest headlines for the 2027 season.
+- [Spring Break 2027 Dates](https://springbreak.com/topics/dates.md): Break dates by college, plus the peak weeks for Mar 2027.
+- [Concerts & Festivals](https://springbreak.com/topics/concerts.md): Ultra, Miami Music Week, beach concerts and pool-party lineups.
+- [Spring Break 101: Packages](https://springbreak.com/topics/packages.md): All-inclusive vs. value-added vs. party packages.
+- [U.S. Price Guide](https://springbreak.com/topics/prices-us.md): What a week costs in PCB, SPI, Miami and Vegas.
+- [Mexico & Caribbean Price Guide](https://springbreak.com/topics/prices-mx.md): Package prices with and without flights.
+- [Passports & Travel Docs](https://springbreak.com/topics/passports.md): Processing times and deadlines to travel in March 2027.
+- [Safety & Local Rules](https://springbreak.com/topics/safety.md): Curfews, alcohol bans and travel advisories.
+- [Spring Break Cruises](https://springbreak.com/topics/cruises.md): Short Bahamas and Mexico sailings.
+- [Family Spring Break](https://springbreak.com/topics/family.md): Kid-friendly alternatives and deals.
+- [Packing & Gear](https://springbreak.com/topics/gear.md): What to pack for beach, boat and club.
+- [Tour Company Comparison](https://springbreak.com/topics/tours.md): StudentCity vs. STS vs. Inertia and others.
+- [Spring Break Films](https://springbreak.com/topics/films.md): The movies that built the myth.
+- [History of Spring Break](https://springbreak.com/topics/history.md): From Ft. Lauderdale 1930s to Cancun.
+- [Contests & Sweepstakes](https://springbreak.com/topics/contests.md): Free trip giveaways and campus rep programs.
+- [Spring Break News](https://springbreak.com/topics/news.md): The latest headlines for the 2027 season.
 
 ## Optional
 
-- [Full site text](https://electronbender.github.io/spring-break-2027/llms-full.txt): every page above in one Markdown file
+- [Full site text](https://springbreak.com/llms-full.txt): every page above in one Markdown file

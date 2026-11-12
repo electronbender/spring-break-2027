@@ -2,7 +2,7 @@
 
 > South of Cancun, the Riviera Maya trades megaclubs for Playa del Carmen's Fifth Avenue, cenotes and calmer all-inclusives. It shares Cancun's airport.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/rivmaya.html
+URL: https://springbreak.com/destinations/rivmaya.html
 Location: Quintana Roo, Mexico
 Updated: 2026-11-11
 2027 status: confirmed for 2027

@@ -2,7 +2,7 @@
 
 > Miami owns the last week of March: Miami Music Week runs Mar 22–28 and Ultra closes it out Mar 26–28 at Bayfront Park. Beach-town concert lineups are usually announced in December and January.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/concerts.html
+URL: https://springbreak.com/topics/concerts.html
 Updated: 2026-11-11
 
 ## Key facts

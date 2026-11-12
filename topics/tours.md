@@ -2,7 +2,7 @@
 
 > Tour companies handle flights, hotels and the party schedule for you. Here's how the big three compare for 2027.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/tours.html
+URL: https://springbreak.com/topics/tours.html
 Updated: 2026-11-11
 
 ## Key facts

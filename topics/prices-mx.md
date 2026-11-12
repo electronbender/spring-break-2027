@@ -2,7 +2,7 @@
 
 > Mexico and the Caribbean cost more upfront, but all-inclusive pricing makes the total predictable: one price covers room, meals and drinks.
 
-URL: https://electronbender.github.io/spring-break-2027/topics/prices-mx.html
+URL: https://springbreak.com/topics/prices-mx.html
 Updated: 2026-11-11
 
 ## Key facts

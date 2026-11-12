@@ -2,7 +2,7 @@
 
 > Seven Mile Beach, cliffside sunsets and a laid-back reggae scene. Height limits keep Negril's hotels at treetop level, and it's famous for cliff jumping at Rick's Café.
 
-URL: https://electronbender.github.io/spring-break-2027/destinations/negril.html
+URL: https://springbreak.com/destinations/negril.html
 Location: Jamaica, Caribbean
 Updated: 2026-11-11
 2027 status: TBA
