@@ -5,15 +5,15 @@
 URL: https://springbreak.com/when-is-my-spring-break.html
 Updated: 2026-11-11
 
-Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free dates, verified July 2026) and STS Travel (Saturday-to-Saturday travel weeks); where they disagree both are shown. Always confirm with your school's official academic calendar.
+Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free dates, verified July 2026) and STS Travel (Saturday-to-Saturday travel weeks); where they disagreed, the school's official 2026–27 calendar was checked (30 schools, marked in the Note column). Always confirm with your school's official academic calendar.
 
 ## U.S. schools by week
 
 - Week of 2027-02-22: 7 schools
 - Week of 2027-03-01: 88 schools
-- Week of 2027-03-08: 269 schools
+- Week of 2027-03-08: 268 schools
 - Week of 2027-03-15: 291 schools
-- Week of 2027-03-22: 104 schools
+- Week of 2027-03-22: 105 schools
 - Week of 2027-03-29: 18 schools
 
 ## U.S. colleges and universities
@@ -21,7 +21,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | School | State | Spring break 2027 | Note |
 |---|---|---|---|
 | Adams State College | CO | 2027-03-15 to 2027-03-19 |  |
-| Adelphi University | NY | 2027-03-15 to 2027-03-21 | STS lists 2027-03-20 to 2027-03-27; confirm with school |
+| Adelphi University | NY | 2027-03-15 to 2027-03-21 | Checked with official calendar: https://www.adelphi.edu/calendar |
 | Adrian College | MI | 2027-02-27 to 2027-03-07 |  |
 | Agnes Scott College | GA | 2027-03-15 to 2027-03-21 |  |
 | Alabama A&M University | AL | 2027-03-15 to 2027-03-19 |  |
@@ -34,7 +34,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Alfred University | NY | 2027-03-06 to 2027-03-14 |  |
 | Allegheny College | PA | 2027-03-06 to 2027-03-13 | STS travel week |
 | Alma College | MI | 2027-03-06 to 2027-03-13 | STS travel week |
-| American University | DC | 2027-03-08 to 2027-03-14 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| American University | DC | 2027-03-07 to 2027-03-14 | Checked with official calendar: https://www.american.edu/provost/registrar/academiccalendar/Spring-2027.cfm |
 | Amherst College | MA | 2027-03-15 to 2027-03-19 |  |
 | Anderson University | IN | 2027-03-06 to 2027-03-13 | STS travel week |
 | Andrews University | MI | 2027-03-12 to 2027-03-21 |  |
@@ -45,7 +45,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Arizona State University | AZ | 2027-03-07 to 2027-03-14 |  |
 | Arkansas State University | AR | 2027-03-22 to 2027-03-26 |  |
 | Asbury University | KY | 2027-03-22 to 2027-03-29 |  |
-| Assumption College | MA | 2027-03-01 to 2027-03-05 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
+| Assumption College | MA | 2027-03-01 to 2027-03-05 | Checked with official calendar: https://www.assumption.edu/wp-content/uploads/2018/12/UG-2026-2027-Final.pdf |
 | Auburn University | AL | 2027-03-08 to 2027-03-12 |  |
 | Augustana College | IL | 2027-03-22 to 2027-03-29 |  |
 | Austin College | TX | 2027-03-08 to 2027-03-12 |  |
@@ -97,7 +97,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | California University of Pennsylvania | PA | 2027-03-06 to 2027-03-13 | STS travel week |
 | Campbell University | NC | 2027-03-08 to 2027-03-12 |  |
 | Campbellsville University | KY | 2027-03-08 to 2027-03-12 |  |
-| Canisius College | NY | 2027-03-29 to 2027-04-02 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
+| Canisius College | NY | 2027-03-29 to 2027-04-02 | Checked with official calendar: https://catalog.canisius.edu/undergraduate/academic-calendar/ |
 | Carl Sandburg College | IL | 2027-03-13 to 2027-03-20 | STS travel week |
 | Carnegie Mellon University | PA | 2027-03-08 to 2027-03-12 |  |
 | Carroll College | WI | 2027-03-06 to 2027-03-13 | STS travel week |
@@ -105,7 +105,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Catholic University of America | DC | 2027-03-08 to 2027-03-14 |  |
 | Cayuga Community College | NY | 2027-03-27 to 2027-04-06 | STS travel week |
 | Cazenovia College | NY | 2027-03-13 to 2027-03-20 | STS travel week |
-| Central Connecticut State University | CT | 2027-03-15 to 2027-03-21 | STS lists 2027-03-20 to 2027-03-27; confirm with school |
+| Central Connecticut State University | CT | 2027-03-15 to 2027-03-21 | Checked with official calendar: https://www.ct.edu/academics/calendar |
 | Central Michigan University | MI | 2027-03-08 to 2027-03-12 |  |
 | Chaminade University | HI | 2027-03-15 to 2027-03-19 |  |
 | Champlain College | VT | 2027-03-06 to 2027-03-13 | STS travel week |
@@ -150,7 +150,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Dartmouth College | NH | 2027-03-20 to 2027-03-27 | STS travel week |
 | Davenport University | MI | 2027-02-28 to 2027-03-06 |  |
 | Davidson College | NC | 2027-03-08 to 2027-03-12 |  |
-| Dean College | MA | 2027-03-15 to 2027-03-19 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
+| Dean College | MA | 2027-03-15 to 2027-03-19 | Checked with official calendar: https://www.dean.edu/academics/academic-resources/academic-calendar/ |
 | Delaware County Community College | PA | 2027-03-06 to 2027-03-13 | STS travel week |
 | Delaware State University | DE | 2027-03-08 to 2027-03-12 |  |
 | Delaware Valley College | PA | 2027-03-06 to 2027-03-13 | STS travel week |
@@ -174,7 +174,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Eastern Connecticut State University | CT | 2027-03-15 to 2027-03-21 |  |
 | Eastern Illinois University | IL | 2027-03-15 to 2027-03-19 |  |
 | Eastern Kentucky University | KY | 2027-03-15 to 2027-03-19 |  |
-| Eastern Michigan University | MI | 2027-03-01 to 2027-03-07 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Eastern Michigan University | MI | 2027-03-01 to 2027-03-07 | Checked with official calendar: https://www.emich.edu/housing/current-residents/important-dates.php |
 | Eastern Oregon University | OR | 2027-03-22 to 2027-03-26 |  |
 | Eastern Washington University | WA | 2027-03-13 to 2027-03-20 | STS travel week |
 | Eckerd College | FL | 2027-03-13 to 2027-03-21 |  |
@@ -213,7 +213,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Fort Lewis College | CO | 2027-03-13 to 2027-03-20 | STS travel week |
 | Framingham State University | MA | 2027-03-15 to 2027-03-19 |  |
 | Franklin and Marshall College | PA | 2027-03-13 to 2027-03-20 | STS travel week |
-| Franklin Pierce University | NH | 2027-03-15 to 2027-03-19 | STS lists 2027-03-20 to 2027-03-27; confirm with school |
+| Franklin Pierce University | NH | 2027-03-15 to 2027-03-19 | Checked with official calendar: https://www.franklinpierce.edu/about/calendar.html |
 | Fresno Pacific University | CA | 2027-03-08 to 2027-03-12 |  |
 | Frostburg State University | MD | 2027-03-13 to 2027-03-21 |  |
 | Furman University | SC | 2027-03-06 to 2027-03-13 | STS travel week |
@@ -228,7 +228,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Georgia Institute of Technology | GA | 2027-03-20 to 2027-03-27 | STS travel week |
 | Georgia Southern University | GA | 2027-03-15 to 2027-03-20 |  |
 | Georgia State University | GA | 2027-03-15 to 2027-03-21 |  |
-| Gettysburg College | PA | 2027-03-08 to 2027-03-12 | STS lists 2027-02-27 to 2027-03-06; confirm with school |
+| Gettysburg College | PA | 2027-03-06 to 2027-03-14 | Checked with official calendar: https://www.gettysburg.edu/faculty/academic-calendars/academic-calendar-2026-2027 |
 | Glenville State College | WV | 2027-03-08 to 2027-03-12 |  |
 | Gonzaga University | WA | 2027-03-08 to 2027-03-12 |  |
 | Gordon College | MA | 2027-03-06 to 2027-03-13 | STS travel week |
@@ -254,13 +254,13 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Haverford College | PA | 2027-03-05 to 2027-03-14 |  |
 | Henderson State University | AR | 2027-03-22 to 2027-03-26 |  |
 | Hendrix College | AR | 2027-03-22 to 2027-03-26 |  |
-| High Point University | NC | 2027-02-22 to 2027-02-26 | STS lists 2027-03-20 to 2027-03-27; confirm with school |
+| High Point University | NC | 2027-02-22 to 2027-02-26 | Checked with official calendar: https://www.highpoint.edu/registrar/files/Updated.2026-2027-Undergraduate-Academic-Calendar.pdf |
 | Hobart and William Smith Colleges | NY | 2027-03-13 to 2027-03-20 | STS travel week |
 | Hofstra University | NY | 2027-03-14 to 2027-03-20 |  |
 | Hollins University | VA | 2027-03-20 to 2027-03-27 | STS travel week |
 | Hood College | MD | 2027-03-06 to 2027-03-13 | STS travel week |
 | Howard Community College | MD | 2027-03-06 to 2027-03-13 | STS travel week |
-| Howard University | DC | 2027-03-06 to 2027-03-14 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Howard University | DC | 2027-03-06 to 2027-03-14 | Checked with official calendar: https://howard.edu/sites/home.howard.edu/files/2026-06/2026-2027%20Academic%20Calendar%206.17.26.pdf |
 | Hudson Valley Community College | NY | 2027-03-06 to 2027-03-13 | STS travel week |
 | Idaho State University | ID | 2027-03-22 to 2027-03-26 |  |
 | Illinois College | IL | 2027-03-08 to 2027-03-12 |  |
@@ -279,7 +279,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Indiana Wesleyan University | IN | 2027-03-01 to 2027-03-05 |  |
 | Iona College | NY | 2027-03-15 to 2027-03-19 |  |
 | Iowa State University | IA | 2027-03-15 to 2027-03-19 |  |
-| Ithaca College | NY | 2027-03-06 to 2027-03-14 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Ithaca College | NY | 2027-03-06 to 2027-03-14 | Checked with official calendar: https://www.ithaca.edu/academics/registrar/academic-calendars/2026-2027-academic-calendar |
 | Jacksonville State University | AL | 2027-03-22 to 2027-03-26 |  |
 | James Madison University | VA | 2027-03-15 to 2027-03-19 |  |
 | John A Logan College | IL | 2027-03-06 to 2027-03-13 | STS travel week |
@@ -300,18 +300,18 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Kenyon College | OH | 2027-03-06 to 2027-03-13 | STS travel week |
 | Kettering College | OH | 2027-03-08 to 2027-03-12 |  |
 | King's College | PA | 2027-03-01 to 2027-03-05 |  |
-| Kutztown University of Pennsylvania | PA | 2027-03-06 to 2027-03-14 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Kutztown University of Pennsylvania | PA | 2027-03-06 to 2027-03-14 | Checked with official calendar: https://www.kutztown.edu/Documents/2026-2027-Academic-Calendar.pdf |
 | La Salle University | PA | 2027-03-08 to 2027-03-14 |  |
 | La Sierra University | CA | 2027-03-19 to 2027-03-28 |  |
 | Lafayette College | PA | 2027-03-15 to 2027-03-19 |  |
 | Lansing Community College | MI | 2027-03-06 to 2027-03-13 | STS travel week |
 | Lasell College | MA | 2027-03-06 to 2027-03-14 |  |
-| Le Moyne College | NY | 2027-03-08 to 2027-03-12 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Le Moyne College | NY | 2027-03-08 to 2027-03-12 | Checked with official calendar: https://www.lemoyne.edu/Academics/Academic-Calendar |
 | Lebanon Valley College | PA | 2027-03-01 to 2027-03-05 |  |
 | Lee University | TN | 2027-03-08 to 2027-03-12 |  |
 | Lehigh University | PA | 2027-03-15 to 2027-03-19 |  |
 | Lesley University | MA | 2027-03-15 to 2027-03-21 |  |
-| Lewis University | IL | 2027-03-15 to 2027-03-19 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
+| Lewis University | IL | 2027-03-15 to 2027-03-19 | Checked with official calendar: https://www.lewisu.edu/academics/academiccalendar.htm |
 | Lewis-Clark State College | ID | 2027-03-29 to 2027-04-02 |  |
 | Liberty University | VA | 2027-03-15 to 2027-03-19 |  |
 | Life Pacific College | CA | 2027-03-22 to 2027-03-26 |  |
@@ -326,7 +326,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Lycoming College | PA | 2027-03-15 to 2027-03-19 |  |
 | Lynchburg College | VA | 2027-03-01 to 2027-03-07 |  |
 | Manchester University | IN | 2027-03-01 to 2027-03-05 |  |
-| Manhattan College | NY | 2027-03-08 to 2027-03-12 | STS lists 2027-03-20 to 2027-03-27; confirm with school |
+| Manhattan College | NY | 2027-03-22 to 2027-03-29 | Checked with official calendar: https://content.manhattan.edu/registrar-files/Fall%202026%20and%20Spring%202027%20Academic%20Calendar2.pdf |
 | Mansfield University of Pennsylvania | PA | 2027-03-06 to 2027-03-13 | STS travel week |
 | Marian University | IN | 2027-03-01 to 2027-03-05 |  |
 | Marist College | NY | 2027-03-13 to 2027-03-21 |  |
@@ -422,7 +422,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Ohio Wesleyan University | OH | 2027-03-06 to 2027-03-14 |  |
 | Oklahoma Baptist University | OK | 2027-03-13 to 2027-03-21 |  |
 | Oklahoma State University | OK | 2027-03-15 to 2027-03-19 |  |
-| Old Dominion University | VA | 2027-03-08 to 2027-03-14 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Old Dominion University | VA | 2027-03-08 to 2027-03-14 | Checked with official calendar: https://www.odu.edu/sites/default/files/2026/documents/spring-2027-academic-calendar.pdf |
 | Onondaga Community College | NY | 2027-03-13 to 2027-03-20 | STS travel week |
 | Oral Roberts University | OK | 2027-03-13 to 2027-03-21 |  |
 | Orange County Community College | NY | 2027-03-20 to 2027-03-27 | STS travel week |
@@ -437,7 +437,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Pennwest California University | PA | 2027-03-08 to 2027-03-12 |  |
 | Pennwest Edinboro University | PA | 2027-03-08 to 2027-03-12 |  |
 | Pepperdine University | CA | 2027-03-01 to 2027-03-05 |  |
-| Pittsburg State University | KS | 2027-03-15 to 2027-03-19 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
+| Pittsburg State University | KS | 2027-03-15 to 2027-03-19 | Checked with official calendar: https://kansasregents.org/academic_affairs/academic-calendars |
 | Plymouth State University | NH | 2027-03-22 to 2027-03-26 |  |
 | Pomona College | CA | 2027-03-13 to 2027-03-20 | STS travel week |
 | Portland State University | OR | 2027-03-21 to 2027-03-28 |  |
@@ -452,7 +452,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Quincy University | IL | 2027-03-20 to 2027-03-28 |  |
 | Quinnipiac University | CT | 2027-03-15 to 2027-03-20 |  |
 | Radford University | VA | 2027-02-27 to 2027-03-07 |  |
-| Ramapo College of New Jersey | NJ | 2027-03-14 to 2027-03-21 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
+| Ramapo College of New Jersey | NJ | 2027-03-14 to 2027-03-21 | Checked with official calendar: https://www.ramapo.edu/academic-calendars/ |
 | Randolph College | VA | 2027-03-06 to 2027-03-13 | STS travel week |
 | Randolph-Macon College | VA | 2027-03-29 to 2027-04-02 |  |
 | Rensselaer Polytechnic Institute | NY | 2027-03-01 to 2027-03-05 |  |
@@ -504,7 +504,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Shenandoah University | VA | 2027-03-15 to 2027-03-21 |  |
 | Shepherd University | WV | 2027-03-14 to 2027-03-21 |  |
 | Shippensburg University of Pennsylvania | PA | 2027-03-08 to 2027-03-12 |  |
-| Siena College | NY | 2027-02-22 to 2027-02-26 | STS lists 2027-02-27 to 2027-03-06; confirm with school |
+| Siena College | NY | 2027-02-22 to 2027-02-26 | Checked with official calendar: https://www.siena.edu/offices/community-living/important-housing-dates/ |
 | Simmons College | MA | 2027-03-01 to 2027-03-05 |  |
 | Simpson University | CA | 2027-03-08 to 2027-03-12 |  |
 | Skidmore College | NY | 2027-03-13 to 2027-03-21 |  |
@@ -554,7 +554,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | SUNY Cortland | NY | 2027-03-15 to 2027-03-19 |  |
 | SUNY Delhi | NY | 2027-03-13 to 2027-03-20 | STS travel week |
 | SUNY Fredonia | NY | 2027-03-13 to 2027-03-20 | STS travel week |
-| SUNY New Paltz | NY | 2027-03-15 to 2027-03-19 | STS lists 2027-03-27 to 2027-04-06; confirm with school |
+| SUNY New Paltz | NY | 2027-03-15 to 2027-03-19 | Checked with official calendar: https://catalog.newpaltz.edu/undergraduate/academic-calendar/ |
 | SUNY Oneonta | NY | 2027-03-20 to 2027-03-27 | STS travel week |
 | SUNY Plattsburgh | NY | 2027-03-13 to 2027-03-21 |  |
 | Susquehanna University | PA | 2027-03-13 to 2027-03-21 |  |
@@ -562,7 +562,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Sweet Briar College | VA | 2027-03-20 to 2027-03-27 | STS travel week |
 | Syracuse University | NY | 2027-03-07 to 2027-03-14 |  |
 | Taylor University | IN | 2027-03-20 to 2027-03-28 |  |
-| Temple University | PA | 2027-03-01 to 2027-03-07 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
+| Temple University | PA | 2027-03-01 to 2027-03-07 | Checked with official calendar: https://registrar.temple.edu/academic-calendar/2026-2027-academic-calendar |
 | Temple University Ambler | PA | 2027-02-27 to 2027-03-06 | STS travel week |
 | Tennessee State University | TN | 2027-03-01 to 2027-03-06 |  |
 | Texas A&M University | TX | 2027-03-15 to 2027-03-19 |  |
@@ -574,7 +574,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | The University of Texas at Arlington | TX | 2027-03-06 to 2027-03-13 | STS travel week |
 | Thomas College | ME | 2027-03-08 to 2027-03-12 |  |
 | Thomas Jefferson University | PA | 2027-03-13 to 2027-03-20 |  |
-| Thomas More College | KY | 2027-03-08 to 2027-03-12 | STS lists 2027-03-27 to 2027-04-06; confirm with school |
+| Thomas More College | KY | 2027-03-08 to 2027-03-12 | Checked with official calendar: https://www.thomasmore.edu/wp-content/uploads/2026_2027-Academic-Calendar-2.pdf |
 | Tiffin University | OH | 2027-02-27 to 2027-03-06 | STS travel week |
 | Towson University | MD | 2027-03-14 to 2027-03-21 |  |
 | Trine University | IN | 2027-03-08 to 2027-03-12 |  |
@@ -620,7 +620,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | University of Colorado at Denver | CO | 2027-03-22 to 2027-03-28 |  |
 | University of Connecticut at Storrs | CT | 2027-03-14 to 2027-03-21 |  |
 | University of Connecticut Hartford | CT | 2027-03-13 to 2027-03-20 | STS travel week |
-| University of Dayton | OH | 2027-03-17 to 2027-03-24 | STS lists 2027-03-20 to 2027-03-27; confirm with school |
+| University of Dayton | OH | 2027-03-17 to 2027-03-24 | Checked with official calendar: https://udayton.edu/fss/important_dates/academic_calendar.php |
 | University of Delaware | DE | 2027-03-27 to 2027-04-04 |  |
 | University of Denver | CO | 2027-03-20 to 2027-03-27 | STS travel week |
 | University of Detroit Mercy | MI | 2027-03-08 to 2027-03-13 |  |
@@ -657,7 +657,7 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | University of Missouri Kansas City | MO | 2027-03-27 to 2027-04-06 | STS travel week |
 | University of Missouri Rolla | MO | 2027-03-20 to 2027-03-27 | STS travel week |
 | University of Missouri St Louis | MO | 2027-03-20 to 2027-03-27 | STS travel week |
-| University of Missouri-Columbia | MO | 2027-03-29 to 2027-04-02 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| University of Missouri-Columbia | MO | 2027-03-27 to 2027-04-04 | Checked with official calendar: https://registrar.missouri.edu/calendars/ |
 | University of Montana | MT | 2027-03-15 to 2027-03-19 |  |
 | University of Montevallo | AL | 2027-03-22 to 2027-03-26 |  |
 | University of Mount Union | OH | 2027-03-08 to 2027-03-12 |  |
@@ -753,11 +753,11 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Washington and Jefferson College | PA | 2027-03-06 to 2027-03-13 | STS travel week |
 | Washington and Lee University | VA | 2027-03-13 to 2027-03-20 | STS travel week |
 | Washington State University | WA | 2027-03-15 to 2027-03-19 |  |
-| Washington University in Saint Louis | MO | 2027-03-14 to 2027-03-21 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
-| Wayne State College | NE | 2027-03-08 to 2027-03-12 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Washington University in Saint Louis | MO | 2027-03-14 to 2027-03-21 | Checked with official calendar: https://registrar.washu.edu/calendars/academic-calendar/ |
+| Wayne State College | NE | 2027-03-08 to 2027-03-12 | Checked with official calendar: https://www.wsc.edu/academic-calendar |
 | Wayne State University | MI | 2027-03-15 to 2027-03-21 |  |
 | Weber State University | UT | 2027-03-08 to 2027-03-12 |  |
-| Wellesley College | MA | 2027-03-22 to 2027-03-26 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Wellesley College | MA | 2027-03-22 to 2027-03-26 | Checked with official calendar: https://webapps.wellesley.edu/class_schedule/academic_calendar.php?start_year=2026&end_year=2027 |
 | Wentworth Institute of Technology | MA | 2027-03-01 to 2027-03-06 |  |
 | Wesleyan University | CT | 2027-03-06 to 2027-03-21 |  |
 | West Chester University of Pennsylvania | PA | 2027-03-08 to 2027-03-14 |  |
@@ -793,8 +793,8 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | Worcester State University | MA | 2027-03-15 to 2027-03-20 |  |
 | Wright State University | OH | 2027-03-01 to 2027-03-07 |  |
 | Xavier University | OH | 2027-03-08 to 2027-03-12 |  |
-| Xavier University of Louisiana | LA | 2027-03-22 to 2027-03-26 | STS lists 2027-03-06 to 2027-03-13; confirm with school |
-| Yale University | CT | 2027-03-06 to 2027-03-21 | STS lists 2027-03-13 to 2027-03-20; confirm with school |
+| Xavier University of Louisiana | LA | 2027-03-22 to 2027-03-26 | Checked with official calendar: https://www.xula.edu/academics/academiccalendar/index.html |
+| Yale University | CT | 2027-03-06 to 2027-03-21 | Checked with official calendar: https://catalog.yale.edu/ycps/calendar/ |
 | York College of Pennsylvania | PA | 2027-02-26 to 2027-03-08 |  |
 | Youngstown State University | OH | 2027-02-27 to 2027-03-06 | STS travel week |
 
@@ -806,12 +806,12 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | University of Cambridge | England, UK | 2027-03-20 to 2027-04-26 | Easter vacation | confirmed | https://www.cam.ac.uk/about-the-university/term-dates-and-calendars |
 | University of Southampton | England, UK | 2027-03-21 to 2027-04-11 | Easter break | confirmed | https://www.southampton.ac.uk/about/term-dates.page |
 | Canterbury Christ Church University | England, UK | 2027-03-26 to 2027-04-09 | Easter break | confirmed | https://www.canterbury.ac.uk/our-students/ug-current/academic-services/timetable-and-dates/university-dates-2026-27 |
-| University College London (UCL) | England, UK | 2027-03-27 to 2027-04-25 | Easter vacation | expected | https://www.ucl.ac.uk/students/life-ucl/term-dates-and-closures |
-| University of Edinburgh | Scotland, UK | 2027-04-05 to 2027-04-16 | Spring vacation | expected | https://semester-dates.ed.ac.uk/202627 |
+| University College London (UCL) | England, UK | 2027-03-25 to 2027-04-25 | Easter vacation | confirmed | https://www.ucl.ac.uk/study/current-students/life-ucl/term-dates-and-closures |
+| University of Edinburgh | Scotland, UK | 2027-04-05 to 2027-04-16 | Spring vacation | confirmed | https://registryservices.ed.ac.uk/student-systems/key-dates/key-dates-202627 |
 | Trinity College Dublin | Ireland | 2027-03-01 to 2027-03-05 | Reading week | confirmed | https://www.tcd.ie/calendar/academic-year-structure/2026-27/academic-year-structure.pdf |
 | Corvinus University of Budapest | Hungary | 2027-03-26 to 2027-03-29 | Easter holiday | confirmed | https://www.uni-corvinus.hu/post/hir/the-2026-2027-academic-year-schedule-and-public-holidays-have-been-published/?lang=en |
 | National and Kapodistrian University of Athens | Greece | 2027-04-26 to 2027-05-07 | Easter holidays | confirmed | https://www.econ.uoa.gr/en/studies/academic-calendar/ |
-| University of Amsterdam | Netherlands | 2027-03-26 to 2027-03-29 | Easter weekend | expected | https://student.uva.nl/en/academic-calendar/2026-2027 |
+| University of Amsterdam | Netherlands | 2027-03-26 to 2027-03-29 | Easter weekend | confirmed | https://student.uva.nl/en/academic-calendar/2026-2027 |
 
 ## Australia
 
@@ -820,12 +820,12 @@ Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free da
 | University of Tasmania | 2027-03-25 to 2027-03-31 | Mid-semester break | confirmed | https://www.utas.edu.au/key-dates/2027-study-periods |
 | Queensland University of Technology (QUT) | 2027-03-26 to 2027-04-04 | Teaching break | confirmed | https://www.qut.edu.au/about/key-dates-and-academic-calendar/academic-calendar/2027-academic-calendar |
 | RMIT University | 2027-03-26 to 2027-04-02 | Mid-semester break | confirmed | https://www.rmit.edu.au/students/my-course/important-dates/2027/uni-ready |
-| Monash University | 2027-03-29 to 2027-04-02 | Mid-semester break | expected | https://www.monash.edu/students/dates/summary-dates |
-| Australian Catholic University | 2027-03-26 to 2027-04-04 | Mid-term break | expected | https://www.acu.edu.au/study-at-acu/important-dates/academic-year-2027-extended-version |
-| University of Melbourne | 2027-03-26 to 2027-04-04 | Easter non-teaching period | expected | https://www.unimelb.edu.au/dates |
-| University of Sydney | 2027-03-26 to 2027-04-04 | Mid-semester break | expected | https://www.sydney.edu.au/students/study-dates.html |
-| University of Queensland | 2027-03-26 to 2027-04-04 | Mid-semester break | expected | https://my.uq.edu.au/student-support/academic-calendar |
-| UNSW Sydney | 2027-04-24 to 2027-05-09 | Term break | expected | https://www.unsw.edu.au/student/managing-your-studies/key-dates/academic-calendar |
+| Monash University | 2027-03-29 to 2027-04-02 | Mid-semester break | confirmed | https://www.monash.edu/study-abroad/inbound/apply/key-dates |
+| Australian Catholic University | 2027-03-29 to 2027-04-04 | Mid-term break | confirmed | https://staff.acu.edu.au/our_university/calendars/academic_year_calendar/academic-year-calendar-2027 |
+| University of Melbourne | 2027-03-26 to 2027-04-04 | Easter non-teaching period | confirmed | https://www.unimelb.edu.au/dates/future |
+| University of Sydney | 2027-03-29 to 2027-04-04 | Mid-semester break | confirmed | https://www.sydney.edu.au/content/dam/students/documents/student-wall-calendar.pdf |
+| University of Queensland | 2027-03-26 to 2027-04-04 | In-semester break | confirmed | https://about.uq.edu.au/academic-calendar |
+| UNSW Sydney | 2027-05-17 to 2027-05-30 | Term break | confirmed | https://www.unsw.edu.au/student/managing-your-studies/key-dates/academic-calendar |
 
 ## FAQ
 
@@ -839,7 +839,7 @@ Search for your school in the list on this page. Because tour company lists some
 
 ### Why do the sources list different dates?
 
-Tour companies list either the days with no classes (usually Monday to Friday) or the Saturday-to-Saturday travel week around them. We show Go Blue Tours' class-free dates first and flag the schools where STS Travel lists a different week.
+Tour companies list either the days with no classes (usually Monday to Friday) or the Saturday-to-Saturday travel week around them. We show Go Blue Tours' class-free dates. Where the two lists disagreed, we checked the school's official 2026–27 academic calendar: Go Blue was right for 29 of the 30 schools and STS for one (Manhattan University). Those 30 schools are marked ✓ Official calendar.
 
 ### Do European and Australian universities have spring break?
 

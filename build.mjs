@@ -313,7 +313,7 @@ const schoolsMd = `# When Is My Spring Break? College Spring Break 2027 Dates
 URL: ${SCHOOL.url}
 Updated: ${MODIFIED}
 
-Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free dates, verified July 2026) and STS Travel (Saturday-to-Saturday travel weeks); where they disagree both are shown. Always confirm with your school's official academic calendar.
+Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free dates, verified July 2026) and STS Travel (Saturday-to-Saturday travel weeks); where they disagreed, the school's official 2026–27 calendar was checked (${SCHOOL.st.verified} schools, marked in the Note column). Always confirm with your school's official academic calendar.
 
 ## U.S. schools by week
 
@@ -323,7 +323,7 @@ ${Object.keys(SCHOOL.st.weeks).sort().map((k) => `- Week of 2027-${k}: ${SCHOOL.
 
 | School | State | Spring break 2027 | Note |
 |---|---|---|---|
-${SCHOOL.st.rows.map((r) => `| ${r.name} | ${r.st} | ${mdDate(r.start)} to ${mdDate(r.end)} | ${r.differ ? `STS lists ${mdDate(r.sts[0])} to ${mdDate(r.sts[1])}; confirm with school` : r.gb ? "" : "STS travel week"} |`).join("\n")}
+${SCHOOL.st.rows.map((r) => `| ${r.name} | ${r.st} | ${mdDate(r.start)} to ${mdDate(r.end)} | ${r.v ? `Checked with official calendar: ${r.v.src}` : r.differ ? `STS lists ${mdDate(r.sts[0])} to ${mdDate(r.sts[1])}; confirm with school` : r.gb ? "" : "STS travel week"} |`).join("\n")}
 
 ## UK and Europe
 

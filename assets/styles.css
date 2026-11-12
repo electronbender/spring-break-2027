@@ -324,3 +324,6 @@ a { color: var(--sea); }
   .week-bars { height: 170px; }
 }
 .date-body h3 a { color: inherit; text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+.sched .ok, .section-head .ok { color: var(--ok); }
+.sched .ok-src { color: var(--ok); font-weight: 600; text-decoration: none; }
+.sched .ok-src:hover { text-decoration: underline; }

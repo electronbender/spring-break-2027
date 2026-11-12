@@ -21,9 +21,10 @@
 
   // ---------- U.S. rows ----------
   const us = S.us.map(([name, st, gs, ge, ss, se]) => {
-    const start = gs || ss, end = gs ? ge : se;
-    const differ = gs && ss && !(toDate(gs) >= new Date(+toDate(ss) - 2 * day) && toDate(gs) <= toDate(se));
-    return { name, st, start, end, week: weekOf(start), gb: gs ? [gs, ge] : null, sts: ss ? [ss, se] : null, differ };
+    const v = (S.verified || {})[name];
+    const start = v ? v.start : gs || ss, end = v ? v.end : gs ? ge : se;
+    const differ = !v && gs && ss && !(toDate(gs) >= new Date(+toDate(ss) - 2 * day) && toDate(gs) <= toDate(se));
+    return { name, st, start, end, week: weekOf(start), gb: gs ? [gs, ge] : null, sts: ss ? [ss, se] : null, differ, v };
   });
   const weeks = {};
   us.forEach((r) => (weeks[r.week] = (weeks[r.week] || 0) + 1));
@@ -35,8 +36,11 @@
   const states = [...new Set(us.map((r) => r.st))].sort((a, b) => (STATE_NAMES[a] || a).localeCompare(STATE_NAMES[b] || b));
 
   const usRow = (r) => {
-    const src = r.gb && r.sts ? "Go Blue + STS" : r.gb ? "Go Blue" : "STS";
-    const note = r.differ
+    const src = r.v ? `<a class="ok-src" href="${esc(r.v.src)}" target="_blank" rel="noopener">✓ Official calendar</a>`
+      : r.gb && r.sts ? "Go Blue + STS" : r.gb ? "Go Blue" : "STS";
+    const note = r.v
+      ? `<span class="ok">Checked with the <a class="ok-src" href="${esc(r.v.src)}" target="_blank" rel="noopener">school's 2026–27 calendar</a>${r.v.note ? ` · ${esc(r.v.note)}` : ""}</span>`
+      : r.differ
       ? `<span class="warn">Sources differ: STS lists ${range(...r.sts)}. Check your school's calendar.</span>`
       : !r.gb ? `<span class="muted">Sat–Sat travel week</span>` : "";
     return `<tr data-name="${esc(r.name.toLowerCase())}" data-st="${r.st}" data-week="${r.week}">
@@ -84,12 +88,12 @@
   const faq = [
     ["When is spring break 2027 for most colleges?", `Most U.S. colleges break between March 1 and March 26, 2027. The busiest week is the week of ${fmt(busiest)} (${weeks[busiest]} of the ${us.length} schools listed here), followed by the week of ${fmt(weekKeys.filter((k) => k !== busiest).reduce((a, b) => (weeks[b] > weeks[a] ? b : a)))}.`],
     ["How do I find my school's spring break dates?", "Search for your school in the list on this page. Because tour company lists sometimes disagree, always confirm with your school's official academic calendar (usually on the registrar's website) before you book flights or pay a deposit."],
-    ["Why do the sources list different dates?", "Tour companies list either the days with no classes (usually Monday to Friday) or the Saturday-to-Saturday travel week around them. We show Go Blue Tours' class-free dates first and flag the schools where STS Travel lists a different week."],
+    ["Why do the sources list different dates?", "Tour companies list either the days with no classes (usually Monday to Friday) or the Saturday-to-Saturday travel week around them. We show Go Blue Tours' class-free dates. Where the two lists disagreed, we checked the school's official 2026–27 academic calendar: Go Blue was right for 29 of the 30 schools and STS for one (Manhattan University). Those 30 schools are marked ✓ Official calendar."],
     ["Do European and Australian universities have spring break?", "Not in the American sense. UK and Irish universities have a 3–6 week Easter vacation, most of continental Europe closes only for the Easter holidays, and Australian universities have a one-week mid-semester break, usually around Easter (Good Friday is March 26, 2027)."],
     ["When should I book my spring break trip?", "Book as soon as your dates are confirmed. The two busiest March weeks sell out first at the most popular hotels and party packages, and flight prices rise as the season approaches."]
   ];
   window.SB_PAGE_FAQ = faq;
-  window.SB_SCHOOL_STATS = { us: us.length, intl: S.intl.length, busiest, busiestCount: weeks[busiest], weeks, rows: us };
+  window.SB_SCHOOL_STATS = { verified: Object.keys(S.verified || {}).length, us: us.length, intl: S.intl.length, busiest, busiestCount: weeks[busiest], weeks, rows: us };
 
   document.getElementById("schools").innerHTML = `
     <section class="t-hero" style="--hero-img:url('${hero ? "../" + hero.src : ""}')">
@@ -122,7 +126,7 @@
     </section>
 
     <section class="wrap section" id="find">
-      <div class="section-head"><h2>Find your school</h2><p>Dates are the days with no classes. Confirm with your school's official calendar before booking.</p></div>
+      <div class="section-head"><h2>Find your school</h2><p>Dates are the days with no classes. Schools marked <b class="ok">✓ Official calendar</b> were checked against the school's 2026–27 academic calendar on ${esc(S.verifiedOn || D.asOf)}; confirm the rest with your registrar before booking.</p></div>
       <div class="finder">
         <label class="field grow"><span>School</span><input id="q" type="search" placeholder="Start typing your school's name" autocomplete="off"></label>
         <label class="field"><span>State</span><select id="state"><option value="">All states</option>${states.map((s) => `<option value="${s}">${esc(STATE_NAMES[s] || s)}</option>`).join("")}</select></label>
@@ -143,7 +147,7 @@
     </section>
 
     <section class="wrap section" id="australia">
-      <div class="section-head"><h2>Australia</h2><p>Australian universities take a one-week mid-semester break in Semester 1, usually around Easter (Good Friday Mar 26 to Easter Monday Mar 29, 2027). Many haven't published 2027 dates yet; those are marked Expected.</p></div>
+      <div class="section-head"><h2>Australia</h2><p>Australian universities take a one-week mid-semester break in Semester 1, usually around Easter (Good Friday Mar 26 to Easter Monday Mar 29, 2027). UNSW is the exception: it runs three terms, so its main break comes in May.</p></div>
       ${intlTable(au, "Australian university mid-semester breaks 2027")}
     </section>
 
@@ -161,7 +165,7 @@
     <section class="wrap section credits">
       <h2>Sources</h2>
       <ul>${Object.values(S.sources).map((s) => `<li><a href="${s.url}" target="_blank" rel="noopener">${esc(s.label)}</a>: ${esc(s.note)}.</li>`).join("")}
-        <li>International dates: each university's official academic calendar, linked in the tables above.</li></ul>
+        <li>Official academic calendars: ${Object.keys(S.verified || {}).length} U.S. schools (linked in the table) and every international university (linked above), checked ${esc(S.verifiedOn || D.asOf)}.</li></ul>
     </section>`;
 
   // ---------- Filtering ----------
