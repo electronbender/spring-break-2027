@@ -9,12 +9,12 @@ window.SB = {
   asOfISO: "2026-11-11",
 
   keyDates: [
+    { date: "2027-02-20", end: "2027-04-06", label: "College spring break 2027 dates", note: "Look up your school's week: 777 U.S. colleges plus universities in the UK, Europe and Australia. The busiest weeks start Mar 8 and Mar 15.", href: "when-is-my-spring-break.html", cta: "When is my spring break?" },
     { date: "2027-03-06", end: "2027-03-28", label: "Peak spring break window", note: "Easter is early in 2027 (Mar 28), so most college breaks fall between Mar 6 and Mar 28.", src: "floridarambler" },
     { date: "2027-03-22", end: "2027-03-28", label: "Miami Music Week", note: "A week of club and pool-party showcases across Miami and Miami Beach. Schedules not yet posted.", src: "mmw" },
     { date: "2027-03-24", end: "2027-03-26", label: "Winter Music Conference", note: "Kimpton EPIC Hotel, Miami.", src: "wmc" },
     { date: "2027-03-26", end: "2027-03-28", label: "Ultra Music Festival (27th edition)", note: "Bayfront Park, Miami. Phase 1 lineup announced; tickets on sale.", src: "ultra" },
-    { date: "2027-03-28", label: "Easter Sunday", note: "Late-season breaks often key off Easter week." },
-    { date: "2027-06-03", end: "2027-06-06", label: "Gulf Coast Jam, Panama City Beach", note: "This country festival comes after spring break season. Headliners: Luke Bryan, Jason Aldean, Bailey Zimmerman, Zach Top.", src: "gcj" }
+    { date: "2027-03-28", label: "Easter Sunday", note: "Late-season breaks often key off Easter week." }
   ],
 
   companies: [

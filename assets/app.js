@@ -68,11 +68,13 @@
   function renderDates() {
     document.getElementById("dates-list").innerHTML = D.keyDates.map((k) => `
       <li class="date-item">
-        <div class="date-chip"><span>${fmt(k.date).split(" ")[0]}</span><b>${fmt(k.date).split(" ")[1]}${k.end ? "–" + fmt(k.end).split(" ")[1] : ""}</b></div>
+        <div class="date-chip">${k.end && k.end.slice(5, 7) !== k.date.slice(5, 7)
+          ? `<span>${fmt(k.date).split(" ")[0]}–${fmt(k.end).split(" ")[0]}</span><b>${fmt(k.date).split(" ")[1]}–${fmt(k.end).split(" ")[1]}</b>`
+          : `<span>${fmt(k.date).split(" ")[0]}</span><b>${fmt(k.date).split(" ")[1]}${k.end ? "–" + fmt(k.end).split(" ")[1] : ""}</b>`}</div>
         <div class="date-body">
-          <h3>${esc(k.label)}</h3>
+          <h3>${k.href ? `<a href="${k.href}">${esc(k.label)}</a>` : esc(k.label)}</h3>
           <p>${esc(k.note)}${k.src ? srcLink(k.src) : ""}</p>
-          ${askButtons(eventPrompt(k), "Latest details")}
+          ${k.href ? `<div class="ask"><a class="btn btn-ask" href="${k.href}">${esc(k.cta || "Open")} →</a></div>` : askButtons(eventPrompt(k), "Latest details")}
         </div>
       </li>`).join("");
   }
@@ -192,7 +194,7 @@
       ...ranked.map((d) => ({ group: "2026 popularity", name: d.name, prompt: popPrompt(d) })),
       ...D.topics.map((t) => ({ group: "Topic", name: t.name, prompt: topicPrompt(t) })),
       ...D.companies.map((c) => ({ group: "Tour company", name: c.name, prompt: companyPrompt(c) })),
-      ...D.keyDates.map((k) => ({ group: "Event", name: k.label, prompt: eventPrompt(k) }))
+      ...D.keyDates.filter((k) => !k.href).map((k) => ({ group: "Event", name: k.label, prompt: eventPrompt(k) }))
     ];
   }
   function renderIndex() {

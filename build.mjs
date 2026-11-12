@@ -121,8 +121,7 @@ const homeFaqHtml = homeFaq.map(([q, a]) => `<details open><summary><h3>${esc(q)
 const EVENT_PLACES = {
   "Miami Music Week": { name: "Miami and Miami Beach", addressLocality: "Miami", addressRegion: "FL" },
   "Winter Music Conference": { name: "Kimpton EPIC Hotel", addressLocality: "Miami", addressRegion: "FL" },
-  "Ultra Music Festival (27th edition)": { name: "Bayfront Park", addressLocality: "Miami", addressRegion: "FL" },
-  "Gulf Coast Jam, Panama City Beach": { name: "Frank Brown Park", addressLocality: "Panama City Beach", addressRegion: "FL" }
+  "Ultra Music Festival (27th edition)": { name: "Bayfront Park", addressLocality: "Miami", addressRegion: "FL" }
 };
 const events = D.keyDates.filter((k) => EVENT_PLACES[k.label]).map((k) => ({
   "@type": "Event", name: k.label.replace(" (27th edition)", " 2027"), startDate: k.date, endDate: k.end || k.date, description: k.note,
@@ -191,6 +190,28 @@ for (const d of D.destinations) {
   write(`destinations/${d.id}.html`, inject(html, els));
 }
 
+// ---------- 6b. When Is My Spring Break? (school dates) ----------
+const SCHOOL = (() => {
+  const { els, ctx } = render([...DATA_SCRIPTS.slice(0, 2), "assets/school-dates.js", "assets/schools.js"], { page: "schools" });
+  const st = ctx.SB_SCHOOL_STATS, faq = ctx.SB_PAGE_FAQ, S = ctx.SB_SCHOOLS;
+  const url = abs("when-is-my-spring-break.html"), hero = TM.dates.images[0];
+  const title = "When Is My Spring Break? College Dates 2027 | Springbreak.com";
+  const description = `Spring break 2027 dates for ${st.us} U.S. colleges plus UK, European and Australian universities. Find your school's week, then book before it sells out.`;
+  const html = read("templates/schools.html").replace("<!--HEAD-->", head({
+    title, description, url, type: "article", image: abs(hero.src), preload: hero.src,
+    jsonld: [
+      { "@type": "Dataset", name: "College spring break 2027 dates", description, url, temporalCoverage: "2027-02/2027-05",
+        spatialCoverage: ["United States", "United Kingdom", "Europe", "Australia"], dateModified: MODIFIED, creator: PUBLISHER,
+        isBasedOn: Object.values(S.sources).map((x) => x.url), variableMeasured: ["School", "State or country", "Spring break start date", "Spring break end date"] },
+      { "@type": "Article", headline: "When Is My Spring Break? College Spring Break 2027 Dates", description, image: abs(hero.src), url,
+        datePublished: MODIFIED, dateModified: MODIFIED, author: PUBLISHER, publisher: PUBLISHER, mainEntityOfPage: url },
+      crumbs([[SITE_NAME, SITE_URL + "/"], ["Key 2027 dates", SITE_URL + "/#dates"], ["When Is My Spring Break?", url]]),
+      faqLd(faq)
+    ]
+  }));
+  write("when-is-my-spring-break.html", inject(html, els));
+  return { st, faq, S, url };
+})();
 // ---------- 7. Markdown copies + llms.txt / llms-full.txt ----------
 const mdList = (arr) => arr.map((x) => `- ${x}`).join("\n");
 const mdSections = (secs) => secs.map((s) => `## ${s.h}\n\n${(s.p || []).join("\n\n")}${s.p && s.list ? "\n\n" : ""}${s.list ? mdList(s.list) : ""}`).join("\n\n");
@@ -262,7 +283,7 @@ Updated: ${MODIFIED}
 
 ## Key 2027 dates
 
-${mdList(D.keyDates.map((k) => `${k.label}: ${k.date}${k.end ? " to " + k.end : ""}. ${k.note}${srcUrl(k.src) ? ` (source: ${srcUrl(k.src)})` : ""}`))}
+${mdList(D.keyDates.map((k) => (k.href ? `[${k.label}](${abs(k.href)})` : k.label) + `: ${k.date}${k.end ? " to " + k.end : ""}. ${k.note}${srcUrl(k.src) ? ` (source: ${srcUrl(k.src)})` : ""}`))}
 
 ## Destinations ranked by Spring Break 2026 popularity
 
@@ -284,9 +305,51 @@ ${homeFaq.map(([q, a]) => `### ${q}\n\n${a}`).join("\n\n")}
 
 ${mdList(Object.values(D.sources).map((s) => `${s.label}: ${s.url}`))}
 `;
+const mdDate = (md) => `2027-${md}`;
+const schoolsMd = `# When Is My Spring Break? College Spring Break 2027 Dates
+
+> Find your school, lock in your dates, then book the trip before your week sells out. ${SCHOOL.st.us} U.S. colleges plus ${SCHOOL.st.intl} universities in the UK, Europe and Australia.
+
+URL: ${SCHOOL.url}
+Updated: ${MODIFIED}
+
+Dates are the days with no classes. U.S. rows merge Go Blue Tours (class-free dates, verified July 2026) and STS Travel (Saturday-to-Saturday travel weeks); where they disagree both are shown. Always confirm with your school's official academic calendar.
+
+## U.S. schools by week
+
+${Object.keys(SCHOOL.st.weeks).sort().map((k) => `- Week of 2027-${k}: ${SCHOOL.st.weeks[k]} schools`).join("\n")}
+
+## U.S. colleges and universities
+
+| School | State | Spring break 2027 | Note |
+|---|---|---|---|
+${SCHOOL.st.rows.map((r) => `| ${r.name} | ${r.st} | ${mdDate(r.start)} to ${mdDate(r.end)} | ${r.differ ? `STS lists ${mdDate(r.sts[0])} to ${mdDate(r.sts[1])}; confirm with school` : r.gb ? "" : "STS travel week"} |`).join("\n")}
+
+## UK and Europe
+
+| University | Country | Break 2027 | Type | Status | Official calendar |
+|---|---|---|---|---|---|
+${SCHOOL.S.intl.filter((r) => r.region === "eu").map((r) => `| ${r.name} | ${r.country} | ${r.start} to ${r.end} | ${r.kind} | ${r.status} | ${r.src} |`).join("\n")}
+
+## Australia
+
+| University | Break 2027 | Type | Status | Official calendar |
+|---|---|---|---|---|
+${SCHOOL.S.intl.filter((r) => r.region === "au").map((r) => `| ${r.name} | ${r.start} to ${r.end} | ${r.kind} | ${r.status} | ${r.src} |`).join("\n")}
+
+## FAQ
+
+${SCHOOL.faq.map(([q, a]) => `### ${q}\n\n${a}`).join("\n\n")}
+
+## Sources
+
+${mdList(Object.values(SCHOOL.S.sources).map((x) => `${x.label}: ${x.url} (${x.note})`))}
+`;
+
 write("index.md", homeMd);
 for (const d of D.destinations) write(`destinations/${d.id}.md`, destMd(d));
 for (const t of D.topics) write(`topics/${t.id}.md`, topicMd(t));
+write("when-is-my-spring-break.md", schoolsMd);
 
 write("llms.txt", `# ${SITE_NAME}: Spring Break 2027
 
@@ -297,6 +360,7 @@ Each page has a Markdown version at the same path with a .md extension. The full
 ## Overview
 
 - [Home: dates, popularity ranking, tour companies](${SITE_URL}/index.md): key 2027 dates, ranked destinations and FAQ
+- [When Is My Spring Break?](${SITE_URL}/when-is-my-spring-break.md): spring break 2027 dates for ${SCHOOL.st.us} U.S. colleges plus UK, European and Australian universities
 
 ## Destinations
 
@@ -310,10 +374,10 @@ ${D.topics.map((t) => `- [${t.name}](${abs(`topics/${t.id}.md`)}): ${t.blurb}`).
 
 - [Full site text](${SITE_URL}/llms-full.txt): every page above in one Markdown file
 `);
-write("llms-full.txt", [homeMd, ...ranked.map(destMd), ...D.topics.map(topicMd)].join("\n\n---\n\n"));
+write("llms-full.txt", [homeMd, schoolsMd, ...ranked.map(destMd), ...D.topics.map(topicMd)].join("\n\n---\n\n"));
 
 // ---------- 8. sitemap.xml + robots.txt ----------
-const urls = [SITE_URL + "/", ...D.destinations.map((d) => abs(`destinations/${d.id}.html`)), ...D.topics.map((t) => abs(`topics/${t.id}.html`))];
+const urls = [SITE_URL + "/", SCHOOL.url, ...D.destinations.map((d) => abs(`destinations/${d.id}.html`)), ...D.topics.map((t) => abs(`topics/${t.id}.html`))];
 write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((u) => `  <url><loc>${u}</loc><lastmod>${MODIFIED}</lastmod></url>`).join("\n")}

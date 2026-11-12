@@ -287,3 +287,40 @@ a { color: var(--sea); }
 .faq summary { cursor: pointer; list-style-position: outside; }
 .faq summary h3 { display: inline; font-size: 17px; }
 .faq details p { margin: 8px 0 0; color: var(--ink-2); }
+
+/* When Is My Spring Break? (school dates finder) */
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.week-bars { display: flex; align-items: end; gap: 6px; height: 200px; padding: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); overflow-x: auto; }
+.week-bar { flex: 1 0 44px; height: 100%; display: flex; flex-direction: column; justify-content: end; align-items: center; gap: 4px; background: none; border: 0; padding: 0; cursor: pointer; color: var(--ink-2); font: 500 12px Inter, sans-serif; }
+.week-bar b { font: 700 14px "Bricolage Grotesque"; color: var(--ink); order: -1; }
+.week-bar .wb-fill { order: 0; width: 100%; height: var(--h); max-height: calc(100% - 44px); min-height: 4px; border-radius: 8px 8px 3px 3px; background: color-mix(in srgb, var(--sea) 55%, var(--surface)); transition: filter .15s; }
+.week-bar.peak .wb-fill { background: linear-gradient(180deg, var(--hero-a), var(--hero-b)); }
+.week-bar:hover .wb-fill { filter: brightness(1.1); }
+.week-bar[aria-pressed="true"] .wb-fill { outline: 2px solid var(--ink); outline-offset: 2px; }
+.week-bar[aria-pressed="true"] .wb-label { color: var(--ink); font-weight: 700; }
+.wb-label { white-space: nowrap; }
+.finder { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 10px; }
+.field { display: grid; gap: 4px; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-2); }
+.field.grow { flex: 1 1 280px; }
+.field input, .field select { font: 400 16px Inter, sans-serif; text-transform: none; letter-spacing: 0; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; min-width: 0; }
+.field input:focus-visible { outline: 2px solid var(--sea); outline-offset: 1px; }
+.count { font-size: 13px; color: var(--ink-2); margin: 0 0 8px; }
+.empty { color: var(--ink-2); }
+.table-scroll { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+.table-scroll.tall { max-height: 640px; overflow-y: auto; }
+.sched { width: 100%; border-collapse: collapse; font-size: 14px; }
+.sched thead th { position: sticky; top: 0; z-index: 1; background: var(--surface-2); text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-2); padding: 10px 14px; }
+.sched tbody th, .sched td { padding: 10px 14px; border-top: 1px solid var(--line); vertical-align: top; text-align: left; }
+.sched tbody th { font-weight: 600; }
+.sched tbody th small, .sched .when small { display: block; font-weight: 400; font-size: 12.5px; color: var(--ink-2); margin-top: 2px; }
+.sched .when b { white-space: nowrap; }
+.sched .src-col { font-size: 12.5px; color: var(--ink-2); white-space: nowrap; }
+.sched .warn { color: var(--mid); }
+.sched .muted { color: var(--ink-2); }
+.sched-intl .intl-note { color: var(--ink-2); font-size: 13.5px; min-width: 260px; }
+@media (max-width: 640px) {
+  .sched .src-col, .sched thead th:last-child { display: none; }
+  .sched-intl .intl-note, .sched-intl thead th:last-child { display: table-cell; }
+  .week-bars { height: 170px; }
+}
+.date-body h3 a { color: inherit; text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }

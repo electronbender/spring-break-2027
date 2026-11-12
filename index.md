@@ -7,12 +7,12 @@ Updated: 2026-11-11
 
 ## Key 2027 dates
 
+- [College spring break 2027 dates](https://springbreak.com/when-is-my-spring-break.html): 2027-02-20 to 2027-04-06. Look up your school's week: 777 U.S. colleges plus universities in the UK, Europe and Australia. The busiest weeks start Mar 8 and Mar 15.
 - Peak spring break window: 2027-03-06 to 2027-03-28. Easter is early in 2027 (Mar 28), so most college breaks fall between Mar 6 and Mar 28. (source: https://www.floridarambler.com/beaches/2026-spring-break-florida/)
 - Miami Music Week: 2027-03-22 to 2027-03-28. A week of club and pool-party showcases across Miami and Miami Beach. Schedules not yet posted. (source: https://www.miamiandbeaches.com/events/miami-music-week-guide)
 - Winter Music Conference: 2027-03-24 to 2027-03-26. Kimpton EPIC Hotel, Miami. (source: https://www.edmtunes.com/2026/06/winter-music-conference-announce-2027-dates/amp/)
 - Ultra Music Festival (27th edition): 2027-03-26 to 2027-03-28. Bayfront Park, Miami. Phase 1 lineup announced; tickets on sale. (source: https://ultramusicfestival.com/tickets/miami/)
 - Easter Sunday: 2027-03-28. Late-season breaks often key off Easter week.
-- Gulf Coast Jam, Panama City Beach: 2027-06-03 to 2027-06-06. This country festival comes after spring break season. Headliners: Luke Bryan, Jason Aldean, Bailey Zimmerman, Zach Top. (source: https://www.ticketnews.com/2026/10/gulf-coast-jam-reveals-full-2027-lineup-led-by-luke-bryan-jason-aldean-and-zach-top)
 
 ## Destinations ranked by Spring Break 2026 popularity
 

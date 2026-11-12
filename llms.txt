@@ -7,6 +7,7 @@ Each page has a Markdown version at the same path with a .md extension. The full
 ## Overview
 
 - [Home: dates, popularity ranking, tour companies](https://springbreak.com/index.md): key 2027 dates, ranked destinations and FAQ
+- [When Is My Spring Break?](https://springbreak.com/when-is-my-spring-break.md): spring break 2027 dates for 777 U.S. colleges plus UK, European and Australian universities
 
 ## Destinations
 
