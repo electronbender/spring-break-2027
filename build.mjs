@@ -132,6 +132,7 @@ const events = D.keyDates.filter((k) => EVENT_PLACES[k.label]).map((k) => ({
 {
   const { els } = render([...DATA_SCRIPTS.slice(0, 2), "assets/app.js"]);
   els["home-faq"] = { innerHTML: homeFaqHtml };
+  delete els.countdown; // day count changes daily; the browser fills it in, so the page only changes when content does
   const title = "Spring Break 2027: Destinations, Concerts & Trips | Springbreak.com";
   const description = "Plan Spring Break 2027: 21 destinations ranked by 2026 popularity, 2027 dates, Ultra and beach concerts, StudentCity, STS and Inertia packages, and travel guides.";
   let html = read("templates/index.html").replace("<!--HEAD-->", head({
