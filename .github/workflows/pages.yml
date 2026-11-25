@@ -34,8 +34,11 @@ jobs:
         env:
           SITE_URL: ${{ vars.SITE_URL }}
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: .
+      # Give GitHub's artifact API a moment to register the upload before deploying
+      - name: Wait for artifact to register
+        run: sleep 15
       - id: deployment
         uses: actions/deploy-pages@v4
