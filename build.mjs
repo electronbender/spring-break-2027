@@ -385,12 +385,25 @@ const PAGE_IMAGES = {
   ...Object.fromEntries(D.destinations.map((d) => [abs(`destinations/${d.id}.html`), DM[d.id].images])),
   ...Object.fromEntries(D.topics.map((t) => [abs(`topics/${t.id}.html`), TM[t.id].images]))
 };
+// lastmod = the date each page's HTML last changed in git (today if it has uncommitted changes).
+// The deploy workflow checks out full history (fetch-depth: 0) so these dates are real in CI too.
+import { execFileSync } from "node:child_process";
+const TODAY = new Date().toISOString().slice(0, 10);
+const fileFor = (u) => (u === SITE_URL + "/" ? "index.html" : u.slice(SITE_URL.length + 1));
+const git = (...a) => { try { return execFileSync("git", a, { cwd: ROOT, encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }).trim(); } catch { return ""; } };
+function lastmod(u) {
+  const f = fileFor(u);
+  // The home page's day countdown changes daily; don't count it as a content change
+  const norm = (s) => s.replace(/id="countdown">\d+</, 'id="countdown"><').trim();
+  if (git("status", "--porcelain", "--", f) && norm(read(f)) !== norm(git("show", `HEAD:${f}`))) return TODAY;
+  return git("log", "-1", "--format=%cs", "--", f) || MODIFIED;
+}
 const xmlEsc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&apos;" }[c]));
 write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${urls.map((u) => `  <url>
     <loc>${xmlEsc(u)}</loc>
-    <lastmod>${MODIFIED}</lastmod>${(PAGE_IMAGES[u] || []).filter(Boolean).map((im) => `
+    <lastmod>${lastmod(u)}</lastmod>${(PAGE_IMAGES[u] || []).filter(Boolean).map((im) => `
     <image:image><image:loc>${xmlEsc(abs(im.src))}</image:loc></image:image>`).join("")}
   </url>`).join("\n")}
 </urlset>
